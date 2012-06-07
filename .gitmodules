@@ -1,3 +1,6 @@
 [submodule "clipping"]
 	path = clipping
 	url = ./app/plugins/clipping
+[submodule "app/plugins/checking"]
+	path = app/plugins/checking
+	url = https://github.com/Tamsmiranda/checking.git
