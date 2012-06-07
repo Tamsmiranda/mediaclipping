@@ -167,3 +167,7 @@ pip-log.txt
 # Cakephp Mediaclipping storage files
 app/webroot/files/*
 app/config/database.php
+app/tmp/*
+app/tmp/cache/*
+app/plugins/checking/*
+app/plugins/clipping/*
