@@ -1,0 +1,1214 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-09-08 15:20+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\clipps_controller.php:13;43;88;118
+
+# RevTran=Invalid CLIPP
+# RevTran=Clipp Invalid
+msgid "Invalid clipp"
+msgstr "Clipp inválido"
+
+#: \controllers\clipps_controller.php:23;48;98;123
+
+# RevTran=The Clipper has been saved
+# RevTran=The Clipper was saved
+msgid "The clipp has been saved"
+msgstr "O Clipp foi salvo"
+
+#: \controllers\clipps_controller.php:26;51;101;126
+
+# RevTran=The Clipper could not be saved. Please try again.
+# RevTran=The Clipp could not be saved. Please try again.
+msgid "The clipp could not be saved. Please, try again."
+msgstr "O Clipp não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\clipps_controller.php:71;146
+
+# RevTran=Not valid identification CLIPP
+# RevTran=Id invalid for Clipp
+msgid "Invalid id for clipp"
+msgstr "Id inválido para Clipp"
+
+#: \controllers\clipps_controller.php:75;150
+
+# RevTran=CLIPP removed
+# RevTran=Clipp excluded
+msgid "Clipp deleted"
+msgstr "Clipp excluído"
+
+#: \controllers\clipps_controller.php:78;153
+
+# RevTran=CLIPP not removed
+msgid "Clipp was not deleted"
+msgstr "Clipp não foi excluída"
+
+#: \controllers\customers_controller.php:13;33;68;88
+
+# RevTran=Invalid Customer
+# RevTran=Invalid Customer
+msgid "Invalid customer"
+msgstr "Cliente inválido"
+
+#: \controllers\customers_controller.php:23;38;78;93
+
+# RevTran=The customer is saved
+# RevTran=The customer was saved
+msgid "The customer has been saved"
+msgstr "O cliente foi salva"
+
+#: \controllers\customers_controller.php:26;41;81;96
+
+# RevTran=The client could not be saved. Please try again.
+# RevTran=The client could not be saved. Please try again.
+msgid "The customer could not be saved. Please, try again."
+msgstr "O cliente não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\customers_controller.php:51;106
+
+# RevTran=Not valid identification for customers
+# RevTran=Invalid Id for the client
+msgid "Invalid id for customer"
+msgstr "Id inválido para o cliente"
+
+#: \controllers\customers_controller.php:55;110
+
+# RevTran=Customer removed
+# RevTran=Deleted client
+msgid "Customer deleted"
+msgstr "Cliente excluído"
+
+#: \controllers\customers_controller.php:58;113
+
+# RevTran=The client has not been removed
+# RevTran=Client was not deleted
+msgid "Customer was not deleted"
+msgstr "Cliente não foi excluída"
+
+#: \controllers\evaluations_controller.php:13;33;68;88
+
+# RevTran=Invalid Evaluation
+# RevTran=Rating Invalid
+msgid "Invalid evaluation"
+msgstr "Avaliação inválido"
+
+#: \controllers\evaluations_controller.php:23;38;78;93
+# RevTran=The evaluation was saved
+msgid "The evaluation has been saved"
+msgstr "A avaliação foi salvo"
+
+#: \controllers\evaluations_controller.php:26;41;81;96
+# RevTran=The evaluation could not be saved. Please try again.
+msgid "The evaluation could not be saved. Please, try again."
+msgstr "A avaliação não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\evaluations_controller.php:51;106
+# RevTran=Id invalid for the assessment
+msgid "Invalid id for evaluation"
+msgstr "Id inválido para a avaliação"
+
+#: \controllers\evaluations_controller.php:55;110
+# RevTran=Rating excluded
+msgid "Evaluation deleted"
+msgstr "Avaliação excluído"
+
+#: \controllers\evaluations_controller.php:58;113
+msgid "Evaluation was not deleted"
+msgstr "Avaliação não foi excluída"
+
+#: \controllers\publisher_types_controller.php:15;30
+# RevTran=The type of publisher has been saved
+msgid "The publisher type has been saved"
+msgstr "O tipo de editora tem sido salvas"
+
+#: \controllers\publisher_types_controller.php:18;33
+# RevTran=The type of publisher could not be saved. Please try again.
+msgid "The publisher type could not be saved. Please, try again."
+msgstr "O tipo de editor não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\publisher_types_controller.php:25
+# RevTran=Invalid type publisher
+msgid "Invalid publisher type"
+msgstr "Tipo inválido publisher"
+
+#: \controllers\publisher_types_controller.php:43
+# RevTran=Id invalid for the type of editor
+msgid "Invalid id for publisher type"
+msgstr "Id inválido para o tipo de editor"
+
+#: \controllers\publisher_types_controller.php:47
+# RevTran=Type excluded Publisher
+msgid "Publisher type deleted"
+msgstr "Tipo Publisher excluído"
+
+#: \controllers\publisher_types_controller.php:50
+# RevTran=Type of editor was not deleted
+msgid "Publisher type was not deleted"
+msgstr "Tipo de editor não foi excluída"
+
+#: \controllers\publishers_controller.php:15;35
+# RevTran=The editor was saved
+msgid "The publisher has been saved"
+msgstr "A editora foi salvo"
+
+#: \controllers\publishers_controller.php:18;38
+# RevTran=The publisher could not be saved. Please try again.
+msgid "The publisher could not be saved. Please, try again."
+msgstr "O editor não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\publishers_controller.php:30
+# RevTran=Publisher Invalid
+msgid "Invalid publisher"
+msgstr "Publisher inválido"
+
+#: \controllers\publishers_controller.php:53
+# RevTran=Id invalid for the publisher
+msgid "Invalid id for publisher"
+msgstr "Id inválido para o publisher"
+
+#: \controllers\publishers_controller.php:57
+msgid "Publisher deleted"
+msgstr "Publisher excluído"
+
+#: \controllers\publishers_controller.php:60
+msgid "Publisher was not deleted"
+msgstr "Publisher não foi excluída"
+
+#: \controllers\sections_controller.php:14;31
+# RevTran=The section was saved
+msgid "The section has been saved"
+msgstr "A seção foi salvo"
+
+#: \controllers\sections_controller.php:17;34
+# RevTran=The section could not be saved. Please try again.
+msgid "The section could not be saved. Please, try again."
+msgstr "A seção não poderia ser salvo. Por favor, tente novamente."
+
+#: \controllers\sections_controller.php:26
+msgid "Invalid section"
+msgstr "Seção inválido"
+
+#: \controllers\sections_controller.php:46
+# RevTran=Id invalid for the section
+msgid "Invalid id for section"
+msgstr "Id inválido para a seção"
+
+#: \controllers\sections_controller.php:50
+msgid "Section deleted"
+msgstr "Seção excluído"
+
+#: \controllers\sections_controller.php:53
+msgid "Section was not deleted"
+msgstr "Seção não foi excluída"
+
+#: \controllers\statuses_controller.php:80;95
+# RevTran=The status is saved
+msgid "The status has been saved"
+msgstr "O status foi salvo"
+
+#: \controllers\statuses_controller.php:83;98
+# RevTran=The status could not be saved. Please try again.
+msgid "The status could not be saved. Please, try again."
+msgstr "O status não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\statuses_controller.php:90
+msgid "Invalid status"
+msgstr "Status inválido"
+
+#: \controllers\statuses_controller.php:108
+# RevTran=Invalid ID for the state
+msgid "Invalid id for status"
+msgstr "ID inválida para o estado"
+
+#: \controllers\statuses_controller.php:112
+msgid "Status deleted"
+msgstr "Status excluído"
+
+#: \controllers\statuses_controller.php:115
+# RevTran=Status was not eliminated
+msgid "Status was not deleted"
+msgstr "Status não foi eliminado"
+
+#: \controllers\storages_controller.php:13;37
+msgid "Invalid storage"
+msgstr "Armazenamento inválido"
+
+#: \controllers\storages_controller.php:23;42
+# RevTran=The store was saved
+msgid "The storage has been saved"
+msgstr "O armazenamento foi salvo"
+
+#: \controllers\storages_controller.php:26;45
+# RevTran=The storage could not be saved. Please try again.
+msgid "The storage could not be saved. Please, try again."
+msgstr "O armazenamento não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\storages_controller.php:59
+# RevTran=Invalid Id for storage
+msgid "Invalid id for storage"
+msgstr "Id inválido para o armazenamento"
+
+#: \controllers\storages_controller.php:63
+msgid "Storage deleted"
+msgstr "Armazenamento excluído"
+
+#: \controllers\storages_controller.php:66
+msgid "Storage was not deleted"
+msgstr "Armazenamento não foi excluída"
+
+#: \controllers\subjects_controller.php:15;30
+# RevTran=The matter was saved
+msgid "The subject has been saved"
+msgstr "O assunto foi salvo"
+
+#: \controllers\subjects_controller.php:18;33
+# RevTran=The matter could not be saved. Please try again.
+msgid "The subject could not be saved. Please, try again."
+msgstr "O assunto não poderia ser salvo. Por favor, tente novamente."
+
+#: \controllers\subjects_controller.php:25
+msgid "Invalid subject"
+msgstr "Inválido assunto"
+
+#: \controllers\subjects_controller.php:43
+# RevTran=Invalid Id for the subject
+msgid "Invalid id for subject"
+msgstr "Id inválido para o sujeito"
+
+#: \controllers\subjects_controller.php:47
+# RevTran=Subject excluded
+msgid "Subject deleted"
+msgstr "Assunto excluído"
+
+#: \controllers\subjects_controller.php:50
+msgid "Subject was not deleted"
+msgstr "Assunto não foi excluída"
+
+#: \views\blocks\add.ctp:4
+msgid "Add Block"
+msgstr "Adicionar Bloco"
+
+#: \views\blocks\add.ctp:21
+#: \views\blocks\edit.ctp:22
+#: \views\clipps\add.ctp:19
+#: \views\clipps\admin_add.ctp:45
+#: \views\clipps\admin_edit.ctp:45
+#: \views\clipps\edit.ctp:20
+#: \views\customers\add.ctp:8
+#: \views\customers\admin_add.ctp:8
+#: \views\customers\admin_edit.ctp:9
+#: \views\customers\edit.ctp:9
+#: \views\evaluations\admin_add.ctp:15
+#: \views\evaluations\admin_edit.ctp:15
+#: \views\publisher_types\admin_add.ctp:15
+#: \views\publisher_types\admin_edit.ctp:15
+#: \views\publishers\admin_add.ctp:19
+#: \views\publishers\admin_edit.ctp:19
+#: \views\sections\admin_add.ctp:16
+#: \views\sections\admin_edit.ctp:16
+#: \views\statuses\admin_add.ctp:17
+#: \views\statuses\admin_edit.ctp:17
+#: \views\storages\add.ctp:17
+#: \views\storages\edit.ctp:18
+#: \views\subjects\admin_add.ctp:15
+#: \views\subjects\admin_edit.ctp:15
+msgid "Submit"
+msgstr "Submeter"
+
+#: \views\blocks\add.ctp:24
+#: \views\blocks\edit.ctp:25
+#: \views\blocks\index.ctp:21;73
+#: \views\blocks\view.ctp:87
+#: \views\clipps\add.ctp:22
+#: \views\clipps\admin_index.ctp:35
+#: \views\clipps\admin_view.ctp:87
+#: \views\clipps\edit.ctp:23
+#: \views\clipps\view.ctp:87
+#: \views\customers\add.ctp:11
+#: \views\customers\admin_add.ctp:11
+#: \views\customers\admin_edit.ctp:12
+#: \views\customers\admin_index.ctp:6;41
+#: \views\customers\admin_view.ctp:12;43
+#: \views\customers\edit.ctp:12
+#: \views\customers\index.ctp:6;41
+#: \views\customers\view.ctp:12;43
+#: \views\evaluations\admin_index.ctp:12
+#: \views\publisher_types\admin_index.ctp:12
+#: \views\publishers\admin_index.ctp:19
+#: \views\publishers\admin_view.ctp:47;82;137
+#: \views\sections\admin_index.ctp:16
+#: \views\statuses\admin_index.ctp:13
+#: \views\storages\add.ctp:20
+#: \views\storages\edit.ctp:21
+#: \views\storages\index.ctp:17;69
+#: \views\storages\view.ctp:67
+#: \views\subjects\admin_index.ctp:12
+msgid "Actions"
+msgstr "Ações"
+
+#: \views\blocks\add.ctp:27
+#: \views\blocks\edit.ctp:29
+#: \views\blocks\view.ctp:91
+# RevTran=Block list
+msgid "List Blocks"
+msgstr "Blocos lista"
+
+#: \views\blocks\add.ctp:28
+#: \views\blocks\edit.ctp:30
+#: \views\blocks\index.ctp:76
+#: \views\blocks\view.ctp:93
+# RevTran=Regions List
+msgid "List Regions"
+msgstr "Regiões lista"
+
+#: \views\blocks\add.ctp:29
+#: \views\blocks\edit.ctp:31
+#: \views\blocks\index.ctp:77
+#: \views\blocks\view.ctp:94
+msgid "New Region"
+msgstr "Nova Região"
+
+#: \views\blocks\edit.ctp:4
+#: \views\blocks\view.ctp:89
+msgid "Edit Block"
+msgstr "Editar bloco"
+
+#: \views\blocks\edit.ctp:28
+#: \views\blocks\index.ctp:53
+#: \views\clipps\admin_index.ctp:66
+#: \views\clipps\edit.ctp:25
+#: \views\customers\admin_edit.ctp:15
+#: \views\customers\admin_index.ctp:21
+#: \views\customers\admin_view.ctp:73
+#: \views\customers\edit.ctp:15
+#: \views\customers\index.ctp:21
+#: \views\customers\view.ctp:73
+#: \views\evaluations\admin_index.ctp:28
+#: \views\publisher_types\admin_index.ctp:27
+#: \views\publishers\admin_index.ctp:41
+#: \views\publishers\admin_view.ctp:112;157
+#: \views\sections\admin_index.ctp:35
+#: \views\statuses\admin_index.ctp:28
+#: \views\storages\edit.ctp:24
+#: \views\storages\index.ctp:49
+#: \views\subjects\admin_index.ctp:27
+msgid "Delete"
+msgstr "Excluir"
+
+#: \views\blocks\edit.ctp:28
+#: \views\blocks\index.ctp:53
+#: \views\blocks\view.ctp:90
+#: \views\clipps\admin_index.ctp:66
+#: \views\clipps\admin_view.ctp:90
+#: \views\clipps\edit.ctp:25
+#: \views\clipps\view.ctp:90
+#: \views\customers\admin_edit.ctp:15
+#: \views\customers\admin_index.ctp:21
+#: \views\customers\admin_view.ctp:15;73
+#: \views\customers\edit.ctp:15
+#: \views\customers\index.ctp:21
+#: \views\customers\view.ctp:15;73
+#: \views\evaluations\admin_index.ctp:28
+#: \views\publisher_types\admin_index.ctp:27
+#: \views\publishers\admin_index.ctp:41
+#: \views\publishers\admin_view.ctp:50;112;157
+#: \views\sections\admin_index.ctp:35
+#: \views\statuses\admin_index.ctp:28
+#: \views\storages\edit.ctp:24
+#: \views\storages\index.ctp:49
+#: \views\storages\view.ctp:70
+#: \views\subjects\admin_index.ctp:27
+# RevTran=Are you sure you want to delete #% s?
+msgid "Are you sure you want to delete # %s?"
+msgstr "Tem certeza de que deseja excluir #% s?"
+
+#: \views\blocks\index.ctp:2
+msgid "Blocks"
+msgstr "Blocos"
+
+#: \views\blocks\index.ctp:51
+#: \views\clipps\admin_index.ctp:64
+#: \views\customers\admin_index.ctp:19
+#: \views\customers\admin_view.ctp:71
+#: \views\customers\index.ctp:19
+#: \views\customers\view.ctp:71
+#: \views\evaluations\admin_index.ctp:26
+#: \views\publishers\admin_view.ctp:110
+#: \views\storages\index.ctp:47
+msgid "View"
+msgstr "Vista"
+
+#: \views\blocks\index.ctp:52
+#: \views\clipps\admin_index.ctp:65
+#: \views\customers\admin_index.ctp:20
+#: \views\customers\admin_view.ctp:72
+#: \views\customers\index.ctp:20
+#: \views\customers\view.ctp:72
+#: \views\evaluations\admin_index.ctp:27
+#: \views\publisher_types\admin_index.ctp:26
+#: \views\publishers\admin_index.ctp:40
+#: \views\publishers\admin_view.ctp:111;156
+#: \views\sections\admin_index.ctp:34
+#: \views\statuses\admin_index.ctp:27
+#: \views\storages\index.ctp:48
+#: \views\subjects\admin_index.ctp:26
+msgid "Edit"
+msgstr "Editar"
+
+#: \views\blocks\index.ctp:61
+#: \views\clipps\admin_index.ctp:72
+#: \views\clipps\index.ctp:62
+#: \views\customers\admin_index.ctp:29
+#: \views\customers\index.ctp:29
+#: \views\evaluations\admin_index.ctp:34
+#: \views\publisher_types\admin_index.ctp:33
+#: \views\publishers\admin_index.ctp:47
+#: \views\sections\admin_index.ctp:41
+#: \views\statuses\admin_index.ctp:34
+#: \views\storages\index.ctp:57
+#: \views\subjects\admin_index.ctp:33
+# RevTran=Page% page% of% pages%, showing% current% records of% count% total, starting on record% start%, ending on% end%
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Página% page% de páginas%%, mostrando registros atual%% de% count% total, começando no registro% start%, terminando em% end%"
+
+#: \views\blocks\index.ctp:66
+#: \views\clipps\index.ctp:67
+#: \views\customers\admin_index.ctp:34
+#: \views\customers\index.ctp:34
+#: \views\storages\index.ctp:62
+msgid "previous"
+msgstr "anterior"
+
+#: \views\blocks\index.ctp:69
+#: \views\clipps\index.ctp:70
+#: \views\customers\admin_index.ctp:37
+#: \views\customers\index.ctp:37
+#: \views\storages\index.ctp:65
+# RevTran=close
+msgid "next"
+msgstr "próximo"
+
+#: \views\blocks\index.ctp:75
+#: \views\blocks\view.ctp:92
+# RevTran=New block
+msgid "New Block"
+msgstr "Bloco novo"
+
+#: \views\blocks\view.ctp:2
+msgid "Block"
+msgstr "Bloco"
+
+#: \views\blocks\view.ctp:4
+#: \views\clipps\admin_view.ctp:4
+#: \views\clipps\view.ctp:4
+#: \views\customers\admin_view.ctp:4;27
+#: \views\customers\view.ctp:4;27
+#: \views\publishers\admin_view.ctp:4;66;130
+#: \views\storages\view.ctp:4
+# RevTran=ID
+msgid "Id"
+msgstr "ID"
+
+#: \views\blocks\view.ctp:9
+msgid "Region"
+msgstr "Região"
+
+#: \views\blocks\view.ctp:14
+#: \views\clipps\admin_view.ctp:9
+#: \views\clipps\view.ctp:9
+#: \views\customers\admin_view.ctp:28
+#: \views\customers\view.ctp:28
+#: \views\publishers\admin_view.ctp:67
+msgid "Title"
+msgstr "Título"
+
+#: \views\blocks\view.ctp:19
+# RevTran=Pseudonym
+msgid "Alias"
+msgstr "Pseudônimo"
+
+#: \views\blocks\view.ctp:24
+msgid "Body"
+msgstr "Corpo"
+
+#: \views\blocks\view.ctp:29
+# RevTran=Show title
+msgid "Show Title"
+msgstr "Mostrar título"
+
+#: \views\blocks\view.ctp:34
+msgid "Class"
+msgstr "Classe"
+
+#: \views\blocks\view.ctp:39
+#: \views\clipps\admin_view.ctp:34
+#: \views\clipps\index.ctp:46
+#: \views\clipps\view.ctp:34
+#: \views\elements\admin_menu.ctp:5
+# RevTran=State
+msgid "Status"
+msgstr "Estado"
+
+#: \views\blocks\view.ctp:44
+msgid "Weight"
+msgstr "Peso"
+
+#: \views\blocks\view.ctp:49
+msgid "Element"
+msgstr "Elemento"
+
+#: \views\blocks\view.ctp:54
+# RevTran=Visibility functions
+msgid "Visibility Roles"
+msgstr "Funções visibilidade"
+
+#: \views\blocks\view.ctp:59
+# RevTran=Paths of visibility
+msgid "Visibility Paths"
+msgstr "Caminhos de visibilidade"
+
+#: \views\blocks\view.ctp:64
+msgid "Visibility Php"
+msgstr "Visibilidade Php"
+
+#: \views\blocks\view.ctp:69
+msgid "Params"
+msgstr "Params"
+
+#: \views\blocks\view.ctp:74
+msgid "Updated"
+msgstr "Atualizado"
+
+#: \views\blocks\view.ctp:79
+#: \views\clipps\admin_view.ctp:39
+#: \views\clipps\view.ctp:39
+#: \views\customers\admin_view.ctp:34
+#: \views\customers\view.ctp:34
+#: \views\publishers\admin_view.ctp:34;73;135
+#: \views\storages\view.ctp:39
+msgid "Created"
+msgstr "Criado"
+
+#: \views\blocks\view.ctp:90
+msgid "Delete Block"
+msgstr "Excluir Bloco"
+
+#: \views\clipps\add.ctp:4
+#: \views\clipps\admin_add.ctp:2
+msgid "Add Clipp"
+msgstr "Adicionar Clipp"
+
+#: \views\clipps\add.ctp:10;11;12;13;14;15;16
+#: \views\clipps\edit.ctp:11;12;13;14;15;16;17
+msgid "Select"
+msgstr "Selecionar"
+
+#: \views\clipps\add.ctp:24
+#: \views\clipps\admin_add.ctp:5
+#: \views\clipps\admin_edit.ctp:5
+#: \views\clipps\admin_view.ctp:91
+#: \views\clipps\edit.ctp:26
+#: \views\clipps\view.ctp:91
+#: \views\customers\add.ctp:15
+#: \views\customers\admin_add.ctp:15
+#: \views\customers\admin_edit.ctp:17
+#: \views\customers\admin_index.ctp:44
+#: \views\customers\admin_view.ctp:18
+#: \views\customers\edit.ctp:17
+#: \views\customers\index.ctp:44
+#: \views\customers\view.ctp:18
+#: \views\publishers\admin_view.ctp:55
+#: \views\statuses\admin_add.ctp:6
+#: \views\statuses\admin_edit.ctp:6
+#: \views\statuses\admin_index.ctp:6
+#: \views\storages\add.ctp:23
+#: \views\storages\edit.ctp:26
+#: \views\storages\index.ctp:72
+#: \views\storages\view.ctp:73
+# RevTran=Clipps list
+msgid "List Clipps"
+msgstr "Clipps lista"
+
+#: \views\clipps\add.ctp:25
+#: \views\clipps\admin_view.ctp:93
+#: \views\clipps\edit.ctp:27
+#: \views\clipps\view.ctp:93
+#: \views\evaluations\admin_add.ctp:5
+#: \views\evaluations\admin_edit.ctp:5
+# RevTran=Assessments list
+msgid "List Evaluations"
+msgstr "As avaliações lista"
+
+#: \views\clipps\add.ctp:26
+#: \views\clipps\admin_view.ctp:94
+#: \views\clipps\edit.ctp:28
+#: \views\clipps\view.ctp:94
+#: \views\evaluations\admin_index.ctp:5
+# RevTran=New rating
+msgid "New Evaluation"
+msgstr "Avaliação nova"
+
+#: \views\clipps\add.ctp:27
+#: \views\clipps\admin_view.ctp:95
+#: \views\clipps\edit.ctp:29
+#: \views\clipps\view.ctp:95
+#: \views\statuses\admin_add.ctp:5
+#: \views\statuses\admin_edit.ctp:5
+# RevTran=Status list
+msgid "List Statuses"
+msgstr "Status lista"
+
+#: \views\clipps\add.ctp:28
+#: \views\clipps\admin_view.ctp:96
+#: \views\clipps\edit.ctp:30
+#: \views\clipps\view.ctp:96
+#: \views\statuses\admin_index.ctp:5
+# RevTran=New State
+msgid "New Status"
+msgstr "Estado Novo"
+
+#: \views\clipps\add.ctp:29
+#: \views\clipps\admin_view.ctp:97
+#: \views\clipps\edit.ctp:31
+#: \views\clipps\view.ctp:97
+#: \views\customers\add.ctp:14
+#: \views\customers\admin_add.ctp:14
+#: \views\customers\admin_edit.ctp:16
+#: \views\customers\admin_view.ctp:16
+#: \views\customers\edit.ctp:16
+#: \views\customers\view.ctp:16
+# RevTran=Guest list
+msgid "List Customers"
+msgstr "Clientes lista"
+
+#: \views\clipps\add.ctp:30
+#: \views\clipps\admin_view.ctp:98
+#: \views\clipps\edit.ctp:32
+#: \views\clipps\view.ctp:98
+#: \views\customers\admin_index.ctp:43
+#: \views\customers\admin_view.ctp:17
+#: \views\customers\index.ctp:43
+#: \views\customers\view.ctp:17
+msgid "New Customer"
+msgstr "Novo Cliente"
+
+#: \views\clipps\add.ctp:31
+#: \views\clipps\admin_view.ctp:99
+#: \views\clipps\edit.ctp:33
+#: \views\clipps\view.ctp:99
+#: \views\publisher_types\admin_add.ctp:5
+#: \views\publisher_types\admin_edit.ctp:5
+#: \views\publishers\admin_add.ctp:6
+#: \views\publishers\admin_edit.ctp:6
+#: \views\publishers\admin_index.ctp:6
+#: \views\publishers\admin_view.ctp:53
+# RevTran=Publisher List types
+msgid "List Publisher Types"
+msgstr "Publisher Tipos de lista"
+
+#: \views\clipps\add.ctp:32
+#: \views\clipps\admin_view.ctp:100
+#: \views\clipps\edit.ctp:34
+#: \views\clipps\view.ctp:100
+#: \views\publisher_types\admin_index.ctp:5
+#: \views\publishers\admin_view.ctp:54
+# RevTran=Type New Publisher
+msgid "New Publisher Type"
+msgstr "Tipo Editora Nova"
+
+#: \views\clipps\add.ctp:33
+#: \views\clipps\admin_view.ctp:101
+#: \views\clipps\edit.ctp:35
+#: \views\clipps\view.ctp:101
+#: \views\publishers\admin_add.ctp:5
+#: \views\publishers\admin_edit.ctp:5
+#: \views\publishers\admin_view.ctp:51
+# RevTran=Publishers list
+msgid "List Publishers"
+msgstr "Publishers lista"
+
+#: \views\clipps\add.ctp:34
+#: \views\clipps\admin_view.ctp:102
+#: \views\clipps\edit.ctp:36
+#: \views\clipps\view.ctp:102
+#: \views\publishers\admin_index.ctp:5
+#: \views\publishers\admin_view.ctp:52
+msgid "New Publisher"
+msgstr "Editora Nova"
+
+#: \views\clipps\add.ctp:35
+#: \views\clipps\admin_view.ctp:103
+#: \views\clipps\edit.ctp:37
+#: \views\clipps\view.ctp:103
+#: \views\publishers\admin_add.ctp:7
+#: \views\publishers\admin_edit.ctp:7
+#: \views\publishers\admin_index.ctp:7
+#: \views\publishers\admin_view.ctp:57
+#: \views\sections\admin_add.ctp:5
+#: \views\sections\admin_edit.ctp:5
+# RevTran=Sections list
+msgid "List Sections"
+msgstr "Seções lista"
+
+#: \views\clipps\add.ctp:36
+#: \views\clipps\admin_view.ctp:104
+#: \views\clipps\edit.ctp:38
+#: \views\clipps\view.ctp:104
+#: \views\publishers\admin_view.ctp:58;166
+#: \views\sections\admin_index.ctp:5
+# RevTran=New section
+msgid "New Section"
+msgstr "Nova secção"
+
+#: \views\clipps\add.ctp:37
+#: \views\clipps\admin_view.ctp:105
+#: \views\clipps\edit.ctp:39
+#: \views\clipps\view.ctp:105
+#: \views\subjects\admin_add.ctp:5
+#: \views\subjects\admin_edit.ctp:5
+# RevTran=Subject list
+msgid "List Subjects"
+msgstr "Sujeitos lista"
+
+#: \views\clipps\add.ctp:38
+#: \views\clipps\admin_view.ctp:106
+#: \views\clipps\edit.ctp:40
+#: \views\clipps\view.ctp:106
+#: \views\subjects\admin_index.ctp:5
+# RevTran=New subject
+msgid "New Subject"
+msgstr "Assunto novo"
+
+#: \views\clipps\admin_add.ctp:13
+#: \views\clipps\admin_edit.ctp:13
+#: \views\clipps\admin_view.ctp:2
+#: \views\clipps\view.ctp:2
+#: \views\storages\view.ctp:59
+msgid "Clipp"
+msgstr "Clipp"
+
+#: \views\clipps\admin_add.ctp:14
+#: \views\clipps\admin_edit.ctp:14
+#: \views\clipps\admin_view.ctp:24
+#: \views\clipps\view.ctp:24
+#: \views\customers\admin_view.ctp:31
+#: \views\customers\view.ctp:31
+#: \views\publishers\admin_view.ctp:70
+msgid "Content"
+msgstr "Conteúdo"
+
+#: \views\clipps\admin_add.ctp:15
+#: \views\clipps\admin_edit.ctp:15
+#: \views\clipps\admin_view.ctp:69
+#: \views\clipps\index.ctp:49
+#: \views\clipps\view.ctp:69
+#: \views\publishers\admin_view.ctp:2
+# RevTran=Editor
+msgid "Publisher"
+msgstr "Editor"
+
+#: \views\clipps\admin_add.ctp:16
+#: \views\clipps\admin_edit.ctp:16
+# RevTran=Archives
+msgid "Files"
+msgstr "Arquivos"
+
+#: \views\clipps\admin_edit.ctp:2
+#: \views\clipps\admin_view.ctp:89
+#: \views\clipps\edit.ctp:4
+#: \views\clipps\view.ctp:89
+msgid "Edit Clipp"
+msgstr "Editar Clipp"
+
+#: \views\clipps\admin_index.ctp:2
+#: \views\clipps\index.ctp:2
+#: \views\elements\admin_menu.ctp:3
+msgid "Clipps"
+msgstr "Clipps"
+
+#: \views\clipps\admin_index.ctp:5
+#: \views\clipps\admin_view.ctp:92
+#: \views\clipps\view.ctp:92
+#: \views\customers\add.ctp:16
+#: \views\customers\admin_add.ctp:16
+#: \views\customers\admin_edit.ctp:18
+#: \views\customers\admin_index.ctp:45
+#: \views\customers\admin_view.ctp:19;82
+#: \views\customers\edit.ctp:18
+#: \views\customers\index.ctp:45
+#: \views\customers\view.ctp:19;82
+#: \views\publishers\admin_view.ctp:56;121
+#: \views\storages\add.ctp:24
+#: \views\storages\edit.ctp:27
+#: \views\storages\index.ctp:73
+#: \views\storages\view.ctp:74
+msgid "New Clipp"
+msgstr "Nova Clipp"
+
+#: \views\clipps\admin_view.ctp:14
+#: \views\clipps\view.ctp:14
+#: \views\customers\admin_view.ctp:29
+#: \views\customers\view.ctp:29
+#: \views\publishers\admin_view.ctp:68
+# RevTran=Date Published
+msgid "Publish Date"
+msgstr "Data de Publicação"
+
+#: \views\clipps\admin_view.ctp:19
+#: \views\clipps\view.ctp:19
+#: \views\customers\admin_view.ctp:30
+#: \views\customers\view.ctp:30
+#: \views\publishers\admin_view.ctp:69
+msgid "Resume"
+msgstr "Retomar"
+
+#: \views\clipps\admin_view.ctp:29
+#: \views\clipps\view.ctp:29
+msgid "Evaluation"
+msgstr "Avaliação"
+
+#: \views\clipps\admin_view.ctp:44
+#: \views\clipps\view.ctp:44
+#: \views\customers\admin_view.ctp:35
+#: \views\customers\view.ctp:35
+#: \views\publishers\admin_view.ctp:39;74;136
+#: \views\storages\view.ctp:44
+msgid "Modified"
+msgstr "Modificado"
+
+#: \views\clipps\admin_view.ctp:49
+#: \views\clipps\view.ctp:49
+#: \views\customers\admin_view.ctp:36
+#: \views\customers\view.ctp:36
+#: \views\publishers\admin_view.ctp:24;75;133
+#: \views\storages\view.ctp:49
+msgid "Created By"
+msgstr "Criado por"
+
+#: \views\clipps\admin_view.ctp:54
+#: \views\clipps\view.ctp:54
+#: \views\customers\admin_view.ctp:37
+#: \views\customers\view.ctp:37
+#: \views\publishers\admin_view.ctp:29;76;134
+#: \views\storages\view.ctp:54
+# RevTran=Modified
+msgid "Modified By"
+msgstr "Modificado por"
+
+#: \views\clipps\admin_view.ctp:59
+#: \views\clipps\index.ctp:48
+#: \views\clipps\view.ctp:59
+#: \views\customers\admin_view.ctp:2
+#: \views\customers\view.ctp:2
+msgid "Customer"
+msgstr "Cliente"
+
+#: \views\clipps\admin_view.ctp:64
+#: \views\clipps\index.ctp:47
+#: \views\clipps\view.ctp:64
+#: \views\publishers\admin_view.ctp:19
+msgid "Publisher Type"
+msgstr "Tipo Publisher"
+
+#: \views\clipps\admin_view.ctp:74
+#: \views\clipps\index.ctp:50
+#: \views\clipps\view.ctp:74
+msgid "Section"
+msgstr "Seção"
+
+#: \views\clipps\admin_view.ctp:79
+#: \views\clipps\index.ctp:51
+#: \views\clipps\view.ctp:79
+msgid "Subject"
+msgstr "Assunto"
+
+#: \views\clipps\admin_view.ctp:90
+#: \views\clipps\view.ctp:90
+msgid "Delete Clipp"
+msgstr "Excluir Clipp"
+
+#: \views\clipps\admin_view.ctp:107
+#: \views\storages\add.ctp:25
+#: \views\storages\edit.ctp:28
+#: \views\storages\index.ctp:74
+#: \views\storages\view.ctp:75
+# RevTran=Users list
+msgid "List Users"
+msgstr "Usuários lista"
+
+#: \views\clipps\admin_view.ctp:108
+#: \views\storages\add.ctp:26
+#: \views\storages\edit.ctp:29
+#: \views\storages\index.ctp:75
+#: \views\storages\view.ctp:76
+# RevTran=Created by new
+msgid "New Created By"
+msgstr "Criado por novas"
+
+#: \views\clipps\index.ctp:45
+msgid "Avaluation"
+msgstr "Avaluation"
+
+#: \views\customers\add.ctp:4
+msgid "Add Customer"
+msgstr "Adicionar ao Cliente"
+
+#: \views\customers\admin_add.ctp:4
+# RevTran=Add Customer Administrator
+msgid "Admin Add Customer"
+msgstr "Adicionar ao Cliente administrador"
+
+#: \views\customers\admin_edit.ctp:4
+# RevTran=Edit administration client
+msgid "Admin Edit Customer"
+msgstr "Editar cliente de administração"
+
+#: \views\customers\admin_index.ctp:2
+#: \views\customers\index.ctp:2
+#: \views\elements\admin_menu.ctp:4
+msgid "Customers"
+msgstr "Clientes"
+
+#: \views\customers\admin_view.ctp:14
+#: \views\customers\edit.ctp:4
+#: \views\customers\view.ctp:14
+msgid "Edit Customer"
+msgstr "Editar cliente"
+
+#: \views\customers\admin_view.ctp:15
+#: \views\customers\view.ctp:15
+# RevTran=Delete Client
+msgid "Delete Customer"
+msgstr "Excluir Cliente"
+
+#: \views\customers\admin_view.ctp:23
+#: \views\customers\view.ctp:23
+#: \views\publishers\admin_view.ctp:62
+msgid "Related Clipps"
+msgstr "Clipps relacionados"
+
+#: \views\customers\admin_view.ctp:32
+#: \views\customers\view.ctp:32
+#: \views\publishers\admin_view.ctp:71
+# RevTran=Rating Id
+msgid "Evaluation Id"
+msgstr "Avaliação Id"
+
+#: \views\customers\admin_view.ctp:33
+#: \views\customers\view.ctp:33
+#: \views\publishers\admin_view.ctp:72
+# RevTran=State Id
+msgid "Status Id"
+msgstr "Id estado"
+
+#: \views\customers\admin_view.ctp:38
+#: \views\customers\view.ctp:38
+#: \views\publishers\admin_view.ctp:77
+# RevTran=CustomerId
+msgid "Customer Id"
+msgstr "Id do cliente"
+
+#: \views\customers\admin_view.ctp:39
+#: \views\customers\view.ctp:39
+#: \views\publishers\admin_view.ctp:78
+# RevTran=Publisher Id Type
+msgid "Publisher Type Id"
+msgstr "Publisher Id Tipo"
+
+#: \views\customers\admin_view.ctp:40
+#: \views\customers\view.ctp:40
+#: \views\publishers\admin_view.ctp:79
+# RevTran=Publisher ID
+msgid "Publisher Id"
+msgstr "Publisher Id"
+
+#: \views\customers\admin_view.ctp:41
+#: \views\customers\view.ctp:41
+#: \views\publishers\admin_view.ctp:80
+msgid "Section Id"
+msgstr "Id seção"
+
+#: \views\customers\admin_view.ctp:42
+#: \views\customers\view.ctp:42
+#: \views\publishers\admin_view.ctp:81
+# RevTran=Id issue
+msgid "Subject Id"
+msgstr "Id assunto"
+
+#: \views\elements\admin_menu.ctp:1
+msgid "Clipping"
+msgstr "Clipping"
+
+#: \views\elements\admin_menu.ctp:6
+#: \views\evaluations\admin_index.ctp:2
+# RevTran=Reviews
+msgid "Evaluations"
+msgstr "Avaliações"
+
+#: \views\elements\admin_menu.ctp:7
+#: \views\publishers\admin_index.ctp:2
+# RevTran=Editors
+msgid "Publishers"
+msgstr "Editores"
+
+#: \views\elements\admin_menu.ctp:8
+#: \views\sections\admin_index.ctp:2
+msgid "Sections"
+msgstr "Seções"
+
+#: \views\elements\admin_menu.ctp:9
+#: \views\subjects\admin_index.ctp:2
+# RevTran=Affairs
+msgid "Subjects"
+msgstr "Assuntos"
+
+#: \views\evaluations\admin_add.ctp:2
+# RevTran=Add Rating
+msgid "Add Evaluation"
+msgstr "Adicionar Avaliação"
+
+#: \views\evaluations\admin_edit.ctp:2
+# RevTran=Rating edit
+msgid "Edit Evaluation"
+msgstr "Avaliação editar"
+
+#: \views\publisher_types\admin_add.ctp:2
+# RevTran=Add type Publisher
+msgid "Add Publisher Type"
+msgstr "Adicionar tipo Publisher"
+
+#: \views\publisher_types\admin_edit.ctp:2
+# RevTran=Edit Type Publisher
+msgid "Edit Publisher Type"
+msgstr "Editar Tipo Publisher"
+
+#: \views\publisher_types\admin_index.ctp:2
+# RevTran=Types Publisher
+msgid "Publisher Types"
+msgstr "Tipos Publisher"
+
+#: \views\publishers\admin_add.ctp:2
+msgid "Add Publisher"
+msgstr "Adicionar Publisher"
+
+#: \views\publishers\admin_edit.ctp:2
+#: \views\publishers\admin_view.ctp:49
+msgid "Edit Publisher"
+msgstr "Editar Publisher"
+
+#: \views\publishers\admin_view.ctp:9;131
+#: \views\storages\view.ctp:9
+msgid "Name"
+msgstr "Nome"
+
+#: \views\publishers\admin_view.ctp:14;132
+#: \views\storages\view.ctp:14
+msgid "Description"
+msgstr "Descrição"
+
+#: \views\publishers\admin_view.ctp:50
+msgid "Delete Publisher"
+msgstr "Excluir Publisher"
+
+#: \views\publishers\admin_view.ctp:126
+msgid "Related Sections"
+msgstr "Seções relacionadas"
+
+#: \views\sections\admin_add.ctp:2
+#: \views\sections\admin_edit.ctp:2
+# RevTran=Add section
+msgid "Add Section"
+msgstr "Adicionar seção"
+
+#: \views\statuses\admin_add.ctp:2
+# RevTran=Add State
+msgid "Add Status"
+msgstr "Adicione Estado"
+
+#: \views\statuses\admin_edit.ctp:2
+# RevTran=Edit State
+msgid "Edit Status"
+msgstr "Editar Estado"
+
+#: \views\statuses\admin_index.ctp:2
+# RevTran=Status
+msgid "Statuses"
+msgstr "Status"
+
+#: \views\storages\add.ctp:4
+msgid "Add Storage"
+msgstr "Adicionar armazenamento"
+
+#: \views\storages\add.ctp:22
+#: \views\storages\edit.ctp:25
+#: \views\storages\view.ctp:71
+# RevTran=Storages list
+msgid "List Storages"
+msgstr "Storages lista"
+
+#: \views\storages\edit.ctp:4
+#: \views\storages\view.ctp:69
+# RevTran=Edit Store
+msgid "Edit Storage"
+msgstr "Editar Armazenamento"
+
+#: \views\storages\index.ctp:2
+# RevTran=Stores
+msgid "Storages"
+msgstr "Armazenamentos"
+
+#: \views\storages\index.ctp:71
+#: \views\storages\view.ctp:72
+# RevTran=New storage
+msgid "New Storage"
+msgstr "Armazenamento nova"
+
+#: \views\storages\view.ctp:2
+msgid "Storage"
+msgstr "Armazenamento"
+
+#: \views\storages\view.ctp:19
+msgid "File"
+msgstr "Arquivo"
+
+#: \views\storages\view.ctp:24
+msgid "Dir"
+msgstr "Dir"
+
+#: \views\storages\view.ctp:29
+msgid "Mimetype"
+msgstr "Mimetype"
+
+#: \views\storages\view.ctp:34
+# RevTran=Size
+msgid "Filesize"
+msgstr "Tamanho"
+
+#: \views\storages\view.ctp:70
+# RevTran=Delete store
+msgid "Delete Storage"
+msgstr "Excluir armazenamento"
+
+#: \views\subjects\admin_add.ctp:2
+msgid "Add Subject"
+msgstr "Adicionar Assunto"
+
+#: \views\subjects\admin_edit.ctp:2
+msgid "Edit Subject"
+msgstr "Editar Assunto"
+

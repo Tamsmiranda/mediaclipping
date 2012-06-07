@@ -1,0 +1,15 @@
+1339038216
+a:1:{i:0;a:5:{s:4:"Node";a:22:{s:2:"id";s:1:"3";s:9:"parent_id";N;s:7:"user_id";s:1:"1";s:5:"title";s:14:"Media Clipping";s:4:"slug";s:14:"media-clipping";s:4:"body";s:1790:"<div class="conteudoMeio">
+<div class="caixaEmpresa">
+<p id="tituloMeio">O Media Clipping</p>
+<p class="caixaEmpresaConteudo">Com o advento da converg&ecirc;ncia da informa&ccedil;&atilde;o, cada vez mais conte&uacute;dos s&atilde;o produzidos por diferentes ve&iacute;culos e distribu&iacute;dos por m&uacute;ltiplos canais.</p>
+<p class="caixaEmpresaConteudo">Com isso, os executivos passaram a ter a necessidade de monitorar mais e melhor essas m&iacute;dias, visando subsidi&aacute;-los na tomada de decis&atilde;o em suas &aacute;reas de atua&ccedil;&atilde;o.</p>
+<p class="caixaEmpresaConteudo">O Media Clipping &eacute; produzido diariamente por um time experiente de profissionais nas &aacute;reas de Jornalismo, Comunica&ccedil;&atilde;o e Tecnologia da Informa&ccedil;&atilde;o.<br /> <a class="saibamais" href="/clientes/rttv-clipping/admin/nodes/edit/empresa.asp">Saiba mais</a></p>
+</div>
+<div class="caixaProdutos">
+<p id="tituloMeio">Nossos Produtos</p>
+<p><strong>Clipping Eletr&ocirc;nico -</strong> Consiste na grava&ccedil;&atilde;o e compila&ccedil;&atilde;o dos canais de R&aacute;dio e Televis&atilde;o, abertos e fechados...<br /> <a class="saibamais" href="/clientes/rttv-clipping/admin/nodes/edit/produtos.asp">Saiba mais</a></p>
+<p><strong>Clipping Impresso -</strong> Atrav&eacute;s de um complexo sistema de coleta de jornais e revistas diretamente nas gr&aacute;ficas e de...<br /> <a class="saibamais" href="/clientes/rttv-clipping/admin/nodes/edit/produtos.asp">Saiba mais</a></p>
+<p><strong>Clipping Internet -</strong> Atrav&eacute;s de sofisticado sistema de busca e minera&ccedil;&atilde;o de noticias da Internet, em...<br /> <a class="saibamais" href="/clientes/rttv-clipping/admin/nodes/edit/produtos.asp">Saiba mais</a></p>
+</div>
+</div>";s:7:"excerpt";s:0:"";s:6:"status";s:1:"1";s:9:"mime_type";N;s:14:"comment_status";s:1:"1";s:13:"comment_count";s:1:"0";s:7:"promote";s:1:"1";s:4:"path";s:20:"/page/media-clipping";s:5:"terms";N;s:6:"sticky";s:1:"0";s:3:"lft";s:1:"3";s:4:"rght";s:1:"4";s:16:"visibility_roles";s:13:"["1","2","3"]";s:4:"type";s:4:"page";s:7:"updated";s:19:"2011-09-14 10:15:36";s:7:"created";s:19:"2011-09-13 09:46:00";s:3:"url";a:5:{s:6:"plugin";b:0;s:10:"controller";s:5:"nodes";s:6:"action";s:4:"view";s:4:"type";s:4:"page";s:4:"slug";s:14:"media-clipping";}}s:4:"User";a:14:{s:2:"id";s:1:"1";s:7:"role_id";s:1:"1";s:8:"username";s:5:"admin";s:8:"password";s:40:"e029d5e7cea62091a47f958d54c175e0cff2be4b";s:4:"name";s:13:"Administrator";s:5:"email";s:17:"you@your-site.com";s:7:"website";s:6:"/about";s:14:"activation_key";s:0:"";s:5:"image";s:0:"";s:3:"bio";s:0:"";s:8:"timezone";s:1:"0";s:6:"status";s:1:"1";s:7:"updated";s:19:"2011-08-29 12:49:05";s:7:"created";s:19:"2009-04-05 00:20:34";}s:4:"Meta";a:1:{i:0;a:6:{s:2:"id";s:1:"2";s:5:"model";s:4:"Node";s:11:"foreign_key";s:1:"3";s:3:"key";s:0:"";s:5:"value";s:0:"";s:6:"weight";N;}}s:8:"Taxonomy";a:0:{}s:12:"CustomFields";a:1:{s:0:"";s:0:"";}}}

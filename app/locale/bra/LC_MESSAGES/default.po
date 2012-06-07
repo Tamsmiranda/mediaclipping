@@ -1,0 +1,3197 @@
+﻿# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+
+
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2010-06-11 14:40+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Site down for maintenance"
+msgstr "Site em manutenção"
+
+
+msgid "Attachments"
+msgstr "Acessórios"
+
+
+msgid "Add Attachment"
+msgstr "Adicionar acessórios"
+
+
+msgid "The Attachment has been saved"
+msgstr "O acessório foi salvo"
+
+
+msgid "The Attachment could not be saved. Please, try again."
+msgstr "O acessório não pode ser salvo.Por favor,tente novamente."
+
+
+msgid "Edit Attachment"
+msgstr "Editar configuração "
+
+
+msgid "Invalid Attachment"
+msgstr "Acessório Inválido"
+
+
+msgid "Invalid id for Attachment"
+msgstr "ID Inválido para Acessório "
+
+
+msgid "Attachment deleted"
+msgstr "Acessório excluído"
+
+
+msgid "Blocks"
+msgstr "Blocos"
+
+
+msgid "Add Block"
+msgstr "Adicionar Blocos"
+
+
+msgid "The Block has been saved"
+msgstr "O bloco foi salvo"
+
+
+msgid "The Block could not be saved. Please, try again."
+msgstr "O bloco não pode ser salvo. Por favor, tente novamente."
+
+
+
+msgid "Edit Block"
+msgstr "Editar Bloco"
+
+
+msgid "Invalid Block"
+msgstr "Bloco Inválido"
+
+
+msgid "Invalid id for Block"
+msgstr "ID inválido para o bloco"
+
+
+msgid "Block deleted"
+msgstr "Bloco excluído"
+
+msgid "Moved up successfully"
+msgstr "Movido para cima com sucesso "
+
+msgid "Could not move up"
+msgstr "Não foi possível mover para cima"
+
+msgid "Moved down successfully"
+msgstr "Movido para baixo com sucesso"
+
+msgid "Could not move down"
+msgstr "Não pode ser movido para baixo"
+
+msgid "No items selected."
+msgstr "Itens não selecionados."
+
+
+msgid "Blocks deleted."
+msgstr "Blocos excluídos."
+
+
+msgid "Blocks published"
+msgstr "Blocos publicados"
+
+
+msgid "Blocks unpublished"
+msgstr "Blocos não publicados"
+
+
+msgid "An error occurred."
+msgstr "Ocorreu um erro."
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "Comments: Published"
+msgstr "Comentários: Publicados"
+
+
+msgid "Comments: Approval"
+msgstr "Commentários: Aprovados"
+
+
+msgid "Edit Comment"
+msgstr "Editar Comentário"
+
+
+msgid "Invalid Comment"
+msgstr "Comentário inválido"
+
+
+msgid "The Comment has been saved"
+msgstr "O comentário foi salvo"
+
+
+msgid "The Comment could not be saved. Please, try again."
+msgstr "O comentário não pode ser salvo. Por favor,tente novamente."
+
+
+msgid "Invalid id for Comment"
+msgstr "ID Inválido do Comentário"
+
+
+msgid "Comment deleted"
+msgstr "Comentário excluído"
+
+
+msgid "Comments deleted."
+msgstr "Comentários excluídos."
+
+
+msgid "Comments published"
+msgstr "Comentários publicados"
+
+
+msgid "Comments unpublished"
+msgstr "Comentários não publicados"
+
+
+msgid "Invalid Node"
+msgstr "Nó inválido"
+
+
+msgid "Maximum level reached. You cannot reply to that comment."
+msgstr "Nível máximo atingido. Você não pode responder a esse comentário."
+
+
+msgid "Your comment has been added successfully."
+msgstr "Seu comentário foi adicionado com sucesso."
+
+
+msgid "Your comment will appear after moderation."
+msgstr "Seu comentário será exibido após moderação."
+
+
+msgid "New comment posted under"
+msgstr "Novo comentário postado acima"
+
+
+msgid "Sorry, the comment appears to be spam."
+msgstr "Desculpe, o comentário parece ser spam."
+
+
+msgid "Invalid captcha entry"
+msgstr "Entrada Inválida captcha "
+
+
+msgid "Contacts"
+msgstr "Contatos"
+
+
+msgid "Add Contact"
+msgstr "Adicionar Contato"
+
+
+msgid "The Contact has been saved"
+msgstr "O contato foi salvo"
+
+
+msgid "The Contact could not be saved. Please, try again."
+msgstr "O contato não pode ser salvo.Por favor, tente novamente."
+
+
+msgid "Edit Contact"
+msgstr "Editar Contato"
+
+
+msgid "Invalid Contact"
+msgstr "Contato Inválido"
+
+
+msgid "Invalid id for Contact"
+msgstr "ID Inválido para o contato"
+
+
+msgid "Contact deleted"
+msgstr "Contato excluído"
+
+
+msgid "Your message has been received..."
+msgstr "Sua mensagem foi recebida..."
+
+
+msgid "Sorry, the message appears to be spam."
+msgstr "Desculpe, a mensagem parece ser spam."
+
+
+msgid "File Manager"
+msgstr "Gerenciador de Arquivos"
+
+
+msgid "Edit file: %s"
+msgstr "Editar arquivo: %s"
+
+
+msgid "File saved successfully"
+msgstr "Arquivo salvo com sucesso"
+
+
+msgid "Upload"
+msgstr "Upload"
+
+
+msgid "File uploaded successfully."
+msgstr "Arquivo carregado com sucesso."
+
+
+msgid "File deleted"
+msgstr "Arquivo excluído"
+
+
+msgid "An error occured"
+msgstr "Ocorreu um erro"
+
+
+msgid "Directory deleted"
+msgstr "Lista Excluída"
+
+
+msgid "New Directory"
+msgstr "Nova lista"
+
+
+msgid "Directory created successfully."
+msgstr "Lista criada com sucesso."
+
+
+msgid "New File"
+msgstr "Novo Arquivo"
+
+
+msgid "File created successfully."
+msgstr "Arquivo criado com sucesso."
+
+
+msgid "Languages"
+msgstr "Línguas"
+
+
+msgid "Add Language"
+msgstr "Adicionar Língua"
+
+
+msgid "The Language has been saved"
+msgstr "A lígua foi salva."
+
+
+msgid "The Language could not be saved. Please, try again."
+msgstr "A Língua não pode ser salva.Por favor,tente novamente."
+
+
+msgid "Edit Language"
+msgstr "Editar língua"
+
+
+msgid "Invalid Language"
+msgstr "Língua Inválida"
+
+
+msgid "Invalid id for Language"
+msgstr "ID Inválida para Língua"
+
+
+msgid "Language deleted"
+msgstr "Língua excluída"
+
+
+msgid "Select a language"
+msgstr "Selecione a língua"
+
+
+msgid "Links: %s"
+msgstr "Links: %s"
+
+
+msgid "Add Link"
+msgstr "Adicionar Link"
+
+
+msgid "The Link has been saved"
+msgstr "O Link foi salvo."
+
+
+msgid "The Link could not be saved. Please, try again."
+msgstr "O Link não pôde ser salvo. Por favor,tente novamente"
+
+
+msgid "Edit Link"
+msgstr "Editar Link"
+
+
+msgid "Invalid Link"
+msgstr "Link Inválido"
+
+
+msgid "Invalid id for Link"
+msgstr "ID Inválido para Link"
+
+
+msgid "Link deleted"
+msgstr "Link Excluído"
+
+
+msgid "Links deleted."
+msgstr "Links excluídos."
+
+
+msgid "Links published"
+msgstr "Links publicados"
+
+
+msgid "Links unpublished"
+msgstr "Links não publicados"
+
+msgid "Menus"
+msgstr "Menus"
+
+
+msgid "Add Menu"
+msgstr "Adicionar Menu"
+
+
+msgid "The Menu has been saved"
+msgstr "O Menu foi salvo"
+
+
+msgid "The Menu could not be saved. Please, try again."
+msgstr "O Menu não pode ser salvo. Por favor, tente novamente."
+
+
+msgid "Edit Menu"
+msgstr "Editar Menu"
+
+
+msgid "Invalid Menu"
+msgstr "Menu Inválido"
+
+
+msgid "Invalid id for Menu"
+msgstr "ID Inválido  para Menu"
+
+
+msgid "Menu deleted"
+msgstr "Menu excluído"
+
+msgid "Messages"
+msgstr "Mensagens"
+
+
+msgid "Messages: Read"
+msgstr "Mensagens: Lidas"
+
+
+msgid "Messages: Unread"
+msgstr "Mensagens: Não lidas"
+
+
+msgid "Edit Message"
+msgstr "Editar Mensagem"
+
+
+msgid "Invalid Message"
+msgstr "Mensagem Inválida"
+
+
+msgid "The Message has been saved"
+msgstr "A mensagem foi salva"
+
+
+msgid "The Message could not be saved. Please, try again."
+msgstr "A mensagem não pode ser salva. Por favor, tente novamente."
+
+
+msgid "Invalid id for Message"
+msgstr "ID Inválida para a mensagem"
+
+
+msgid "Message deleted"
+msgstr "Mensagem excluída"
+
+
+msgid "Messages deleted."
+msgstr "Mensagens excluída."
+
+
+msgid "Messages marked as read"
+msgstr "Mensagens marcadas como lida "
+
+msgid "Messages marked as unread"
+msgstr "Mensagens marcadas como não lidas"
+
+
+msgid "Content"
+msgstr "Conteúdo"
+
+
+msgid "Create content"
+msgstr "Criar conteúdo"
+
+msgid "Content type does not exist."
+msgstr "Tipo de Conteúdo não existe."
+
+msgid "Create content: %s"
+msgstr "Criar conteúdo: %s"
+
+
+msgstr "% foi salvo"
+msgstr "%s foi salvo"
+
+msgid "%s has been saved"
+msgstr "%s foi salvo com sucesso"
+
+
+
+msgid "%s could not be saved. Please, try again."
+msgstr "%s não pode ser salvo. Por favor, tente novamente."
+
+
+msgid "Invalid content"
+msgstr "Conteúdo Inválido"
+
+
+msgid "Edit content: %s"
+msgstr "Editar conteúdo: %s"
+
+
+msgid "Paths updated."
+msgstr "Caminhos atualizados."
+
+
+msgid "Invalid id for Node"
+msgstr "ID Inválida para o Nó"
+
+
+msgid "Node deleted"
+msgstr "Nó excluído."
+
+msgid "Nodes deleted."
+msgstr "Nó excluído."
+
+
+msgid "Nodes published"
+msgstr "Nó publicado"
+
+
+msgid "Nodes unpublished"
+msgstr "Nó não publicado"
+
+
+msgid "Nodes promoted"
+msgstr "Nós promovidos"
+
+
+
+msgid "Nodes unpromoted"
+msgstr "Nós não promovidos"
+
+
+
+msgid "Invalid content type."
+msgstr "Tipo de conteúdo Inválido."
+
+
+msgid "Nodes"
+msgstr "Media Clipping"
+
+msgid "Search Results: %s"
+msgstr "Pesquisar resultados: %s"
+
+msgid "Region"
+msgstr "Região"
+
+
+msgid "Add Region"
+msgstr "Adicionar Região"
+
+msgid "The Region has been saved"
+msgstr "A Região foi salva"
+
+
+msgid "The Region could not be saved. Please, try again."
+msgstr "A Região não pode ser salva. Por favor, tente novamente."
+
+
+msgid "Edit Region"
+msgstr "Editar Região"
+
+
+msgid "Invalid Region"
+msgstr "Região Inválida"
+
+
+msgid "Invalid id for Region"
+msgstr "ID Inválido para região"
+
+
+msgid "Region deleted"
+msgstr "Região excluída "
+
+
+msgid "Roles"
+msgstr "Função"
+
+
+msgid "Add Role"
+msgstr "Adicionar função"
+
+
+msgid "The Role has been saved"
+msgstr "A função foi salvo"
+
+
+msgid "The Role could not be saved. Please, try again."
+msgstr "A função não pode ser salvo.Por favor, tente novamente."
+
+
+msgid "Edit Role"
+msgstr "Editar Função"
+
+
+msgid "Invalid Role"
+msgstr "Função Inválida "
+
+
+msgid "Invalid id for Role"
+msgstr "ID Inválido para função"
+
+
+msgid "Role deleted"
+msgstr "Função excluída"
+
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+
+msgid "Settings"
+msgstr "Configurações"
+
+
+msgid "Invalid Setting."
+msgstr "Configuração Inválida."
+
+msgid "Add Setting"
+msgstr "Adicionar Configuração"
+
+msgid "The Setting has been saved"
+msgstr "A configuração foi salva"
+
+
+msgid "The Setting could not be saved. Please, try again."
+msgstr "A configuração não ´pde ser salva.Por favor, tente novamente."
+
+msgid "Edit Setting"
+msgstr "Editar configuração "
+
+msgid "Invalid Setting"
+msgstr "Configuração inválida"
+
+msgid "Invalid id for Setting"
+msgstr "ID inválido para configuração "
+
+
+msgid "Setting deleted"
+msgstr "Configuração excluída"
+
+msgid "Settings: %s"
+msgstr "Configurações: %s"
+
+
+msgid "Settings updated successfully"
+msgstr "As Configurações foram atualizadas com sucesso"
+
+
+msgid "Invalid Setting key"
+msgstr "Chave de configuração inválida"
+
+msgid "Invalid Vocabulary ID."
+msgstr "Vocabulário de ID inválido."
+
+
+msgid "Vocabulary: %s"
+msgstr "Vocabulário: %s"
+
+msgid "%s: Add Term"
+msgstr "%s: Adicionar Termo"
+
+
+msgid "Term with same slug already exists in the vocabulary."
+msgstr "Termo slug igual já existe no vocabulário."
+
+
+msgid "Term saved successfuly."
+msgstr "Termo salvo com sucesso."
+
+
+msgid "Term could not be added to the vocabulary. Please try again."
+msgstr "Termo não pode ser adicionado ao vocabulário.Por favor , tente novamente."
+
+msgid "Term could not be saved. Please try again."
+msgstr "Termo não pode ser salvo.Por favor, tente novamente."
+
+msgid "%s: Edit Term"
+msgstr "%s: Editar Termo"
+
+msgid "Invalid id for Term"
+msgstr "ID Inválido para termo"
+
+
+msgid "Term deleted"
+msgstr "Termo excluído"
+
+msgid "Term could not be deleted. Please, try again."
+msgstr "Termo não pode ser excluído.Por favor,tente novamente."
+
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Add Type"
+msgstr "Adicionar Tipo"
+
+
+msgid "The Type has been saved"
+msgstr "O Tipo foi salvo"
+
+msgid "The Type could not be saved. Please, try again."
+msgstr "O tipo não pode ser salvo.Por favor, tente novamente."
+
+msgid "Edit Type"
+msgstr "Editar Tipo"
+
+msgid "Invalid Type"
+msgstr "Tipo Inválido "
+
+
+msgid "Invalid id for Type"
+msgstr "ID Inválido para Tipo"
+
+
+msgid "Type deleted"
+msgstr "Tipo excluído"
+
+
+msgid "You have reached maximum limit for failed login attempts. Please try again after a few minutes."
+msgstr "Você atingiu o limite máximo para as tentativas de login falhou. Por favor, tente novamente após alguns minutos."
+
+
+msgid "Users"
+msgstr "Usuários"
+
+
+msgid "The User has been saved"
+msgstr "O usuário foi salvo"
+
+
+msgid "The User could not be saved. Please, try again."
+msgstr "O Ususário não pode ser salvo. Por favor, tente novamente."
+
+
+msgid "Invalid User"
+msgstr "Usuário Inválido "
+
+
+msgid "Password has been reset."
+msgstr "Senha redefinida."
+
+
+msgid "Password could not be reset. Please, try again."
+msgstr "A senha não pode ser reposta. Por favor, tente novamente."
+
+
+msgid "Current password did not match. Please, try again."
+msgstr "Senha atual não coincidem. Por favor, tente novamente."
+
+msgid "Invalid id for User"
+msgstr "ID Inválido para o usuário "
+
+msgid "User deleted"
+msgstr "Usuário excluído"
+
+msgid "Admin Login"
+msgstr "Admin Login"
+
+
+msgid "Log out successful."
+msgstr "Saiu com sucesso."
+
+
+msgid "Register"
+msgstr "Registro"
+
+
+
+
+msgid "You have successfully registered an account. An email has been sent with further instructions."
+msgstr "Sua conta foi registrada com sucesso. Um e-mail foi enviado com instruções detalhadas."
+
+
+msgid "Account activated successfully."
+msgstr "Conta ativada com sucesso."
+
+
+msgid "Forgot Password"
+msgstr "Esqueceu sua senha"
+
+
+msgid "Invalid username."
+msgstr "Usuário Inválido."
+
+
+msgid "Reset Password"
+msgstr "Esqueci minha senha"
+
+
+msgid "An email has been sent with instructions for resetting your password."
+msgstr "Um e-mail foi enviado com instruções para redefinir sua senha."
+
+
+msgid "An error occurred. Please try again."
+msgstr "Ocorreu um erro.Por favor, tente novamente."
+
+
+msgid "Your password has been reset successfully."
+msgstr "Sua senha foi redefinida com sucesso."
+
+
+msgid "Log in"
+msgstr "Log in"
+
+msgid "Invalid User."
+msgstr "Usuário Inválido."
+
+msgid "Vocabularies"
+msgstr "Vocabulários"
+
+
+msgid "Add Vocabulary"
+msgstr "Adicionar Vocabulário"
+
+
+msgid "The Vocabulary has been saved"
+msgstr "O vocabulário foi salvo"
+
+msgid "The Vocabulary could not be saved. Please, try again."
+msgstr "O vocabulário não pode ser salvo.Por favor, tente novamente."
+
+
+msgid "Edit Vocabulary"
+msgstr "Editar Vocabulário"
+
+
+msgid "Invalid Vocabulary"
+msgstr "Vocabulário Inválido"
+
+msgid "Invalid id for Vocabulary"
+msgstr "ID Inválido para Vocabulário"
+
+msgid "Vocabulary deleted"
+msgstr "Vocabulário excluído"
+
+
+msgid "Datasource %s for CroogoTranslateBehavior of model %s is not connected"
+msgstr "Datasource %s do CroogoTranslateBehavio para o modelo %s não está conectado"
+
+msgid "Acos"
+msgstr "Acos"
+
+
+msgid "Add Aco"
+msgstr "Adicionar Aco"
+
+
+msgid "The Aco has been saved"
+msgstr "O Aco  foi  salvo"
+
+
+msgid "The Aco could not be saved. Please, try again."
+msgstr "O Aco não pode ser salvo. Por favor, tente novamente. "
+
+
+msgid "Edit Aco"
+msgstr "Editar Aco"
+
+
+msgid "Invalid Aco"
+msgstr "Aco Inválido "
+
+
+msgid "Invalid id for Aco"
+msgstr "ID inválido para Aco"
+
+
+msgid "Aco deleted"
+msgstr "Aco excluído"
+
+
+msgid "Actions"
+msgstr "Ações"
+
+
+msgid "Add Action"
+msgstr "Adicionar Ação"
+
+
+msgid "The "
+msgstr "O "
+
+msgid "Edit Action"
+msgstr "Editar Acão"
+
+
+msgid "Invalid Action"
+msgstr "Ação inválida"
+
+msgid "The Action has been saved"
+msgstr "A Ação foi salva"
+
+
+msgid "The Action could not be saved. Please, try again."
+msgstr "A Ação não pode ser salva. Por favor, tente novamente."
+
+msgid "Invalid id for Action"
+msgstr "ID Inválido de Ação"
+
+
+msgid "Action deleted"
+msgstr "Ação excluída"
+
+msgid "Action moved up"
+msgstr "Ação movida para cima"
+
+
+msgid "Action moved down"
+msgstr "Ação movida para baixo"
+
+
+msgid "Aros"
+msgstr "Aros"
+
+msgid "Add Aro"
+msgstr "Adicionar Aro"
+
+
+msgid "The Aro has been saved"
+msgstr "O Aro foi salvo"
+
+
+msgid "The Aro could not be saved. Please, try again."
+msgstr "O Aro não pode ser salvo. Por favor, tente novamente."
+
+msgid "Edit Aro"
+msgstr "Editar Aro"
+
+msgid "Invalid Aro"
+msgstr "Aro Inválido"
+
+msgid "Invalid id for Aro"
+msgstr "ID inválido para Aro"
+
+
+msgid "Aro deleted"
+msgstr "Aro excluído"
+
+msgid "Permissions"
+msgstr "Permissões"
+
+
+msgid "New Aco"
+msgstr "Novo Aco"
+
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+
+msgid "Are you sure?"
+msgstr "Você tem certeza?"
+
+
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+
+msgid "Choose none if the Aco is a controller."
+msgstr "Escolha nenhum se o Aco é o controlador."
+
+msgid "New Action"
+msgstr "Nova Ação "
+
+
+msgid "Generate Actions"
+msgstr "Gerar ações"
+
+msgid "Id"
+msgstr "Id"
+
+
+msgid "Alias"
+msgstr "Atalho"
+
+
+msgid "Move up"
+msgstr "Mover para cima"
+
+msgid "Move down"
+msgstr "Mover para baixo"
+
+msgid "New Aro"
+msgstr "Novo Aro"
+
+
+msgid "Edit Actions"
+msgstr "Editar Ações "
+
+msgid "error"
+msgstr "erro"
+
+msgid "Example"
+msgid "Example 1"
+
+
+
+msgstr "Exemplo"
+msgstr "Exemplo 1"
+
+msgid "Example 2"
+msgstr "Exemplo 2"
+
+
+msgid "content here"
+msgstr "conteúdo aqui"
+
+
+msgid "Hooks"
+msgstr "Hooks"
+
+
+msgid "%s activated successfully."
+msgstr "%s ativado com sucesso."
+
+msgid "%s could not be activated. Plugin depends on other plugins that are not available."
+msgstr "%s não pode ser ativado. Plugin depende de outros plugins que não estão disponíveis"
+
+
+msgid "%s deactivated successfully."
+msgstr "%s desativado com sucesso."
+
+
+msgid "Locales"
+msgstr "Locais"
+
+
+msgid "Locale does not exist."
+msgstr "Local não existe."
+
+msgid "Could not edit croogo_bootstrap.php file."
+msgstr "Não foi possível editar arquivo croogo_bootstrap.php."
+
+msgid "Upload a new locale"
+msgstr "Carregar um novo local"
+
+
+msgid "Invalid locale."
+msgstr "Local Inválido."
+
+
+msgid "Locale already exists."
+msgstr "Local já existente."
+
+
+msgid "Edit locale: %s"
+msgstr "Editar local: %s"
+
+msgid "The file default.po does not exist."
+msgstr "O arquivo default.po não existe."
+
+msgid "Invalid locale"
+msgstr "Local atualizado com sucesso "
+
+
+msgid "Invalid locale"
+msgstr "Local Inválido"
+
+
+msgid "Locale deleted successfully."
+msgstr "Local removido com sucesso."
+
+
+msgid "Local could not be deleted."
+msgstr "Local não pode ser excluído."
+
+msgid "Plugins"
+msgstr "Plugins"
+
+
+msgid "Upload a new plugin"
+msgstr "Carregar um novo plugin"
+
+
+msgid "Invalid plugin."
+msgstr "Plugin Inválido."
+
+
+msgid "Plugin already exists."
+msgstr "Plugin já existente."
+
+msgid "Invalid plugin"
+msgstr "Plugin Inválido"
+
+
+msgid "You cannot delete a plugin that is currently active."
+msgstr "Você não pode excluir um plugin que está ativo."
+
+
+msgid "Plugin deleted successfully."
+msgstr "Plugin excluído com sucesso."
+
+
+msgid "Plugin could not be deleted."
+msgstr "Plugin não pode ser excluído."
+
+msgid "Themes"
+msgstr "Temas"
+
+
+msgid "Theme activated."
+msgstr "Tema ativado."
+
+
+msgid "Upload a new theme"
+msgstr "Carregar um novo tema"
+
+msgid "Invalid YML file"
+msgstr "Arquivo YML inválido"
+
+msgid "Invalid zip archive"
+msgstr "Arquivo Zip Inválido"
+
+
+msgid "Directory with theme alias already exists."
+msgstr "Diretório com esse mesmo nome já existe."
+
+
+msgid "Theme uploaded successfully."
+msgstr "Tema carregado com sucesso."
+
+msgid "Theme Editor"
+msgstr "Editor Tema"
+
+
+msgid "Invalid Theme."
+msgstr "Tema Inválido."
+
+
+msgid "Default theme cannot be deleted."
+msgstr "Tema padrão não pode ser excluído."
+
+
+msgid "You cannot delete a theme that is currently active."
+msgstr "Você não pode excluir um tema que está ativo atualmente."
+
+
+msgid "Theme deleted successfully."
+msgstr "Tema excluído com sucesso."
+
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Hook"
+msgstr "Hook"
+
+
+msgid "Hook type"
+msgstr "Tipo Hook "
+
+
+msgid "Status"
+msgstr "Status"
+
+
+msgid "Deactivate"
+msgstr "Desativar"
+
+
+msgid "Activate"
+msgstr "Ativado"
+
+
+
+msgid "Locale"
+msgstr "Local"
+
+
+
+msgid "Default"
+msgstr "Padrão"
+
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Description"
+msgstr "Descrição"
+
+
+msgid "Hooks Active"
+msgstr "Hooks Ativo"
+
+
+msgid "Editor"
+msgstr "Veículo"
+
+
+msgid "Current Theme"
+msgstr "Tema Atual"
+
+msgid "by"
+msgstr "por"
+
+
+msgid "Regions supported: "
+msgstr "Regiões suportadas: "
+
+
+msgid "Available Themes"
+msgstr "Temas Disponíveis"
+
+
+msgid "Installation: Welcome"
+msgstr "Instalação: Bem vindo"
+
+msgid "Step 1: Database"
+msgstr "Passo 1: Base de dados"
+
+msgid "Could not connect to database."
+msgstr "Não foi possível conectar no banco de dados."
+
+
+
+msgid "Could not write database.php file."
+msgstr "Não foi possível gravar no arquivo database.php"
+
+
+msgid "Step 2: Build database"
+msgstr "Passo 2: Criar banco de dados"
+
+
+msgid "Installation completed successfully"
+msgstr "Instalação concluída com sucesso"
+
+
+msgid "Installation files deleted successfully."
+msgstr "Arquivos de instalação apagados com sucesso."
+
+
+msgid "Could not delete installation files."
+msgstr "Não foi possível excluir os arquivos de instalação."
+
+msgid "Click here to build your database"
+msgstr "Clique aqui para criar seu banco de dados"
+
+
+msgid "Click here to delete installation files"
+msgstr "Clique aqui para apagar os arquivos de instalação"
+
+
+msgid "Your tmp directory is writable."
+msgstr "Sua configuração do diretório tmp é gravável."
+
+
+msgid "Your tmp directory is NOT writable."
+msgstr "Sua configuração do diretório tmp NÃO é gravável."
+
+
+msgid "Your config directory is writable."
+msgstr "Sua configuração do diretório é gravável."
+
+
+msgid "Your config directory is NOT writable."
+msgstr "Sua configuração do diretório NÃO é gravável."
+
+
+msgid "PHP version %s > 5"
+msgstr "Versão PHP  %s > 5"
+
+
+msgid "PHP version %s < 5"
+msgstr "Versão PHP  %s < 5"
+
+
+msgid "Installation cannot continue as minimum requirements are not met."
+msgstr "A instalação não pode continuar, requisitos mínimos não foram cumpridos."
+
+
+msgid "Croogo"
+msgstr "Media Clipp"
+
+
+msgid "Install Croogo"
+msgstr "Instalar Croogo"
+
+
+msgid "Invalid ID."
+msgstr "ID Inválido."
+
+msgid "Invalid model."
+msgstr "Modelo Inválido."
+
+
+msgid "Invalid record."
+msgstr "Registro Inválido."
+
+
+msgid "Translations: %s"
+msgstr "Traduções: %s"
+
+msgid "Translate content: %s (%s)"123
+msgstr "Traduzir conteúdo: %s (%s)"
+
+
+msgid "Record has been translated"
+msgstr "Tradução gravada com sucesso"
+
+msgid "Record could not be translated. Please, try again."
+msgstr "Não foi possível gravar a tradução. Por favor, tente novamente."
+
+msgid "Invalid Locale or ID"
+msgstr "Local de ID Inválido"
+
+
+msgid "Translation for the locale deleted successfully."
+msgstr "Tradução para o local excluído com sucesso."
+
+
+msgid "Translation for the locale could not be deleted."
+msgstr "Tradução para o local não podera ser excluída."
+
+
+msgid "Record"
+msgstr "Gravar"
+
+
+msgid "Translate in a new language"
+msgstr "Translate in a new language"
+
+
+msgid "Title"
+msgstr "Título"
+
+
+msgid "No translations available."
+msgstr "Nenhuma tradução disponível."
+
+
+msgid "Could not add a new language."
+msgstr "Não foi possível adicionar um novo idioma."
+
+
+msgid "New Attachment"
+msgstr "Novo Acessório"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Insert"
+msgstr "Inserir"
+
+
+msgid "Attachment"
+msgstr "Acessório"
+
+
+msgid "Info"
+msgstr "Info"
+
+
+msgid "Caption"
+msgstr "Título"
+
+
+msgid "File URL"
+msgstr "Arquivo URL"
+
+
+msgid "Mime Type"
+msgstr "Tipo Mime"
+
+
+msgid "Block"
+msgstr "Bloco"
+
+msgid "Access"
+msgstr "Acessar"
+
+
+msgid "Visibilities"
+msgstr "Visibilidades"
+
+
+msgid "unique name for your block"
+msgstr "nome exclusivo para o bloco"
+
+
+msgid "if you are not sure, choose 'none'"
+msgstr "Se você não tiver certeza, escolha a opção 'none'"
+
+
+msgid "Enter one URL per line. Leave blank if you want this Block to appear in all pages."
+msgstr "Digite uma URL por linha. Deixe em branco se quiser que este bloco apareça em todas as páginas."
+
+
+msgid "New Block"
+msgstr "Novo Bloco"
+
+msgid "Publish"
+msgstr "Publicado"
+
+
+msgid "Unpublish"
+msgstr "Não publicado"
+
+
+msgid "Submit"
+msgstr "Enviar"
+
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "Contact Info"
+msgstr "Informações de contato"
+
+
+msgid "Published"
+msgstr "Publicados"
+
+
+msgid "Approval"
+msgstr "Aprovação"
+
+msgid "Comment on"
+msgstr "Comentar sobre"
+
+
+msgid "Contact"
+msgstr "Contato"
+
+
+msgid "Details"
+msgstr "Details"
+
+
+msgid "Message"
+msgstr "Mensagem"
+
+
+msgid "Let users leave a message"
+msgstr "Permita que os usuários deixem uma mensagem"
+
+
+msgid "Save messages in database"
+msgstr "Save messages in database"
+
+
+msgid "Notify by email instantly"
+msgstr "Notifique por e-mail imediatamente"
+
+
+msgid "Spam protection (requires Akismet API key)"
+msgstr "Proteção de spam (requer Chave da API Akismet)"
+
+
+msgid "Use captcha? (requires Recaptcha API key)"
+msgstr "Usar captcha? (requer Chave da API Recaptcha)"
+
+msgid "You can manage your API keys here."
+msgstr "Você pode gerenciar suas chaves API aqui."
+
+
+msgid "New Contact"
+msgstr "Novo Contato"
+
+
+msgid "Your name"
+msgstr "Seu nome"
+
+msgid "Your email"
+msgstr "Seu e-mail"
+
+msgid "Subject"
+msgstr "Assunto"
+
+
+msgid "Send"
+msgstr "Enviar"
+
+
+msgid "said on %s"
+msgstr "disse em  %s"
+
+
+msgid "Reply"
+msgstr "Responder"
+
+
+msgid "Add new comment"
+msgstr "Adicionar novo comentário"
+
+
+msgid "Go back to original post"
+msgstr "Volte ao post original"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Website"
+msgstr "Website"
+
+
+msgid "Post comment"
+msgstr "Postar comentario"
+
+
+msgid "Posted"
+msgstr "Postado"
+
+
+msgid "on"
+msgstr "em"
+
+
+msgid "Posted in"
+msgstr "Postado em"
+
+
+msgid "Leave a comment"
+msgstr "Deixar um comentário"
+
+
+msgid "Search"
+msgstr "Pesquisar"
+
+
+msgid "Admin Panel"
+msgstr "Admin Painel"
+
+msgid "Visit website"
+msgstr "Visitar website"
+
+
+msgid "List"
+msgstr "Lista"
+
+
+msgid "Content types"
+msgstr "Tipo de conteúdo"
+
+msgid "Taxonomy"
+msgstr "Taxonomia"
+
+msgid "Add new"
+msgstr "Adicionar novo "
+
+
+msgid "Regions"
+msgstr "Regiões"
+
+msgid "Extensions"
+msgstr "Extensões"
+
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Site"
+msgstr "Site"
+
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Reading"
+msgstr "Lendo"
+
+
+msgid "Writing"
+msgstr "Escrevendo"
+
+
+msgid "Service"
+msgstr "Serviços"
+
+msgid "Unpublished"
+msgstr "Não publicados"
+
+
+msgid "Promoted"
+msgstr "Promovido"
+
+
+msgid "Yes"
+msgstr "Sim"
+
+
+msgid "No"
+msgstr "Não"
+
+
+msgid "Filter"
+msgstr "Filtrar"
+
+
+msgid "You are logged in as "
+msgstr "Você está logado como "
+
+msgid "You are logged in as: %s"
+msgstr "Você está logado como: %s"
+
+
+msgid "Log Out"
+msgstr "Sair"
+
+
+msgid "A new comment has been posted under: %s"
+msgstr "Um novo comentário foi postado em: %s"
+
+msgid "Name: %s"
+msgstr "Nome: %s"
+
+
+msgid "Email: %s"
+msgstr "E-mail: %s"
+
+msgid "Website: %s"
+msgstr "Website: %s"
+
+
+msgid "IP Address: %s"
+msgstr "Endereço IP: %s"
+
+
+msgid "Comment: %s"
+msgstr "Comentário: %s"
+
+
+msgid "You have received a new message at: %s"
+msgstr "Você recebeu uma nova mensagem de: %s"
+
+
+msgid "Subject: %s"
+msgstr "Assunto: %s"
+
+
+msgid "Message: %s"
+msgstr "Mensagem: %s"
+
+
+msgid "Hello %s"
+msgstr "Olá %s"
+
+
+msgid "Please visit this link to reset your password: %s"
+msgstr "Por favor, acesse este link para redefinir sua senha: %s"
+
+
+msgid "If you did not request a password reset, then please ignore this email."
+msgstr "Se você não pediu para redefinir de senha, por favor, ignore este e-mail."
+
+
+msgid "Please visit this link to activate your account: %s"
+msgstr "Por favor, acesse este link para ativar sua conta: %s"
+
+
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+
+msgid "Error"
+msgstr "Erro"
+
+
+msgid "The requested address was not found on this server."
+msgstr "O endereço solicitado não foi encontrado neste servidor."
+
+msgid "Security Error"
+msgstr "Erro de Segurança"
+
+
+msgid "Upload here"
+msgstr "Upload aqui"
+
+
+msgid "Create directory"
+msgstr "Criar diretório"
+
+msgid "Create directory"
+msgstr "Criar arquivo "
+
+
+msgid "You are here:"
+msgstr "Você está aqui :"
+
+
+msgid "Directory content"
+msgstr "Directory content"
+
+
+msgid "Open"
+msgstr "Aberto"
+
+
+msgid "Key"
+msgstr "Chave"
+
+
+msgid "Value"
+msgstr "Valor"
+
+
+msgid "Remove"
+msgstr "Remover"
+
+
+msgid "New Language"
+msgstr "Nova Língua"
+
+msgid "Back to"
+msgstr "Voltar para"
+
+
+msgid "Site down for maintenance."
+msgstr "Site em manutenção."
+
+
+msgid "Link"
+msgstr "Link"
+
+
+msgid "Misc."
+msgstr "Misto"
+
+
+msgid "Parent"
+msgstr "Pai"
+
+
+msgid "Link to a Node"
+msgstr "Link para o nó"
+
+msgid "New Link"
+msgstr "Novo Link"
+
+
+
+msgid "Menu"
+msgstr "Menu"
+
+
+msgid "New Menu"
+msgstr "Novo Menu"
+
+
+msgid "View links"
+msgstr "Ver links"
+
+
+msgid "Unread"
+msgstr "Não lido"
+
+
+msgid "Read"
+msgstr "Ler"
+
+
+msgid "Mark as read"
+msgstr "Marcar como lido"
+
+
+msgid "Mark as unread"
+msgstr "Marcar como não lido"
+
+
+msgid "Terms"
+msgstr "Termos"
+
+
+msgid "Custom fields"
+msgstr "Campos personalizados"
+
+
+msgid "Publishing"
+msgstr "Publicação"
+
+
+msgid "Disabled"
+msgstr "Inválido"
+
+
+msgid "Read only"
+msgstr "Somente Leitura"
+
+
+msgid "Read/Write"
+msgstr "Ler/Escrever"
+
+
+msgid "Add another field"
+msgstr "Add another field"
+
+
+msgid "Promoted to front page"
+msgstr "Promovido para a página inicial"
+
+
+msgid "Promote"
+msgstr "Promover"
+
+
+msgid "Unpromote"
+msgstr "Não promover"
+
+
+msgid "Sort by:"
+msgstr "Classificar por:"
+
+
+msgid "No items found."
+msgstr "Nenhum item encontrado."
+
+
+msgid "New Region"
+msgstr "Nova Região "
+
+
+msgid "New Role"
+msgstr "Nova Função "
+
+
+msgid "e.g., 'Site.title'"
+msgstr "ex., 'Site.titulo'"
+
+
+
+msgid "e.g., 'text' or 'textarea'"
+msgstr "ex., 'texto' ou 'textarea'"
+
+
+msgid "New Setting"
+msgstr "Nova Configuração"
+
+
+msgid "Setting"
+msgstr "Configuração"
+
+
+msgid "Input Type"
+msgstr "Tipo de entrada"
+
+
+msgid "Weight"
+msgstr "Peso"
+
+
+msgid "Params"
+msgstr "Parametros"
+
+
+msgid "Delete Setting"
+msgstr "Excluir Configuração"
+
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Tem certeza de que deseja excluir # %s?"
+
+
+msgid "List Settings"
+msgstr "Configurações da Lista"
+
+
+msgid "Term"
+msgstr "Termo"
+
+
+msgid "New Term"
+msgstr "Novo Termo"
+
+
+msgid "Slug"
+msgstr "Slug"
+
+
+msgid "Format"
+msgstr "Formato"
+
+
+msgid "Show author's name"
+msgstr "Mostrar nome do autor"
+
+
+msgid "Show date"
+msgstr "Show date"
+
+
+msgid "New Type"
+msgstr "Novo Tipo"
+
+
+msgid "Add User"
+msgstr "Adicionar Ususário"
+
+msgid "Edit User"
+msgstr "Editar Usuário"
+
+
+msgid "Reset password"
+msgstr "Restaurar senha"
+
+
+msgid "New User"
+msgstr "Novo Usuário"
+
+
+msgid "Role"
+msgstr "Função"
+
+
+msgid "Forgot password?"
+msgstr "Esqueceu senha?"
+
+
+msgid "Log In"
+msgstr "Log In"
+
+
+msgid "Current Password"
+msgstr "Senha atual"
+
+
+msgid "New Password"
+msgstr "Nova senha "
+
+
+msgid "You are currently logged in as:"
+msgstr "Você está logado como:"
+
+
+msgid "Login"
+msgstr "Login"
+
+
+msgid "New password"
+msgstr "Nova senha "
+
+msgid "Vocabulary"
+msgstr "Vocabulário"
+
+
+msgid "Options"
+msgstr "Opções"
+
+
+msgid "New Vocabulary"
+msgstr "Novo Vocabulário"
+
+msgid "View terms"
+msgstr "Ver termos"
+
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Configuração Debug não permite o acesso a este url"
+
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-09-08 15:20+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\clipps_controller.php:13;43;88;118
+
+# RevTran=Invalid CLIPP
+# RevTran=Clipp Invalid
+msgid "Invalid clipp"
+msgstr "Clipp inválido"
+
+#: \controllers\clipps_controller.php:23;48;98;123
+
+# RevTran=The Clipper has been saved
+# RevTran=The Clipper was saved
+msgid "The clipp has been saved"
+msgstr "O Clipp foi salvo"
+
+#: \controllers\clipps_controller.php:26;51;101;126
+
+# RevTran=The Clipper could not be saved. Please try again.
+# RevTran=The Clipp could not be saved. Please try again.
+msgid "The clipp could not be saved. Please, try again."
+msgstr "O Clipp não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\clipps_controller.php:71;146
+
+# RevTran=Not valid identification CLIPP
+# RevTran=Id invalid for Clipp
+msgid "Invalid id for clipp"
+msgstr "Id inválido para Clipp"
+
+#: \controllers\clipps_controller.php:75;150
+
+# RevTran=CLIPP removed
+# RevTran=Clipp excluded
+msgid "Clipp deleted"
+msgstr "Clipp excluído"
+
+#: \controllers\clipps_controller.php:78;153
+
+# RevTran=CLIPP not removed
+msgid "Clipp was not deleted"
+msgstr "Clipp não foi excluída"
+
+#: \controllers\customers_controller.php:13;33;68;88
+
+# RevTran=Invalid Customer
+# RevTran=Invalid Customer
+msgid "Invalid customer"
+msgstr "Cliente inválido"
+
+#: \controllers\customers_controller.php:23;38;78;93
+
+# RevTran=The customer is saved
+# RevTran=The customer was saved
+msgid "The customer has been saved"
+msgstr "O cliente foi salva"
+
+#: \controllers\customers_controller.php:26;41;81;96
+
+# RevTran=The client could not be saved. Please try again.
+# RevTran=The client could not be saved. Please try again.
+msgid "The customer could not be saved. Please, try again."
+msgstr "O cliente não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\customers_controller.php:51;106
+
+# RevTran=Not valid identification for customers
+# RevTran=Invalid Id for the client
+msgid "Invalid id for customer"
+msgstr "Id inválido para o cliente"
+
+#: \controllers\customers_controller.php:55;110
+
+# RevTran=Customer removed
+# RevTran=Deleted client
+msgid "Customer deleted"
+msgstr "Cliente excluído"
+
+#: \controllers\customers_controller.php:58;113
+
+# RevTran=The client has not been removed
+# RevTran=Client was not deleted
+msgid "Customer was not deleted"
+msgstr "Cliente não foi excluída"
+
+#: \controllers\evaluations_controller.php:13;33;68;88
+
+# RevTran=Invalid Evaluation
+# RevTran=Rating Invalid
+msgid "Invalid evaluation"
+msgstr "Avaliação inválido"
+
+#: \controllers\evaluations_controller.php:23;38;78;93
+# RevTran=The evaluation was saved
+msgid "The evaluation has been saved"
+msgstr "A avaliação foi salvo"
+
+#: \controllers\evaluations_controller.php:26;41;81;96
+# RevTran=The evaluation could not be saved. Please try again.
+msgid "The evaluation could not be saved. Please, try again."
+msgstr "A avaliação não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\evaluations_controller.php:51;106
+# RevTran=Id invalid for the assessment
+msgid "Invalid id for evaluation"
+msgstr "Id inválido para a avaliação"
+
+#: \controllers\evaluations_controller.php:55;110
+# RevTran=Rating excluded
+msgid "Evaluation deleted"
+msgstr "Avaliação excluído"
+
+#: \controllers\evaluations_controller.php:58;113
+msgid "Evaluation was not deleted"
+msgstr "Avaliação não foi excluída"
+
+#: \controllers\publisher_types_controller.php:15;30
+# RevTran=The type of publisher has been saved
+msgid "The publisher type has been saved"
+msgstr "O Veículo foi salvo com sucesso"
+
+#: \controllers\publisher_types_controller.php:18;33
+# RevTran=The type of publisher could not be saved. Please try again.
+msgid "The publisher type could not be saved. Please, try again."
+msgstr "O tipo de veículo não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\publisher_types_controller.php:25
+# RevTran=Invalid type publisher
+msgid "Invalid publisher type"
+msgstr "Tipo de veículo inválido"
+
+#: \controllers\publisher_types_controller.php:43
+# RevTran=Id invalid for the type of editor
+msgid "Invalid id for publisher type"
+msgstr "Id inválido para o tipo de veículo"
+
+#: \controllers\publisher_types_controller.php:47
+# RevTran=Type excluded Publisher
+msgid "Publisher type deleted"
+msgstr "Tipo de veículo excluído"
+
+#: \controllers\publisher_types_controller.php:50
+# RevTran=Type of editor was not deleted
+msgid "Publisher type was not deleted"
+msgstr "Tipo de veículo não foi excluída"
+
+#: \controllers\publishers_controller.php:15;35
+# RevTran=The editor was saved
+msgid "The publisher has been saved"
+msgstr "O veículo foi salvo"
+
+#: \controllers\publishers_controller.php:18;38
+# RevTran=The publisher could not be saved. Please try again.
+msgid "The publisher could not be saved. Please, try again."
+msgstr "O veículo não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\publishers_controller.php:30
+# RevTran=Publisher Invalid
+msgid "Invalid publisher"
+msgstr "Veículo inválido"
+
+#: \controllers\publishers_controller.php:53
+# RevTran=Id invalid for the publisher
+msgid "Invalid id for publisher"
+msgstr "Id inválido para o veículo"
+
+#: \controllers\publishers_controller.php:57
+msgid "Publisher deleted"
+msgstr "Veículo excluído"
+
+#: \controllers\publishers_controller.php:60
+msgid "Publisher was not deleted"
+msgstr "Não foi possível excluir o veículo"
+
+#: \controllers\sections_controller.php:14;31
+# RevTran=The section was saved
+msgid "The section has been saved"
+msgstr "A editoria foi salva"
+
+#: \controllers\sections_controller.php:17;34
+# RevTran=The section could not be saved. Please try again.
+msgid "The section could not be saved. Please, try again."
+msgstr "A editoria não poderia ser salvo. Por favor, tente novamente."
+
+#: \controllers\sections_controller.php:26
+msgid "Invalid section"
+msgstr "Editoria inválido"
+
+#: \controllers\sections_controller.php:46
+# RevTran=Id invalid for the section
+msgid "Invalid id for section"
+msgstr "Id inválido para a editoria"
+
+#: \controllers\sections_controller.php:50
+msgid "Section deleted"
+msgstr "Editoria excluído"
+
+#: \controllers\sections_controller.php:53
+msgid "Section was not deleted"
+msgstr "Editoria não foi excluída"
+
+#: \controllers\statuses_controller.php:80;95
+# RevTran=The status is saved
+msgid "The status has been saved"
+msgstr "O status foi salvo"
+
+#: \controllers\statuses_controller.php:83;98
+# RevTran=The status could not be saved. Please try again.
+msgid "The status could not be saved. Please, try again."
+msgstr "O status não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\statuses_controller.php:90
+msgid "Invalid status"
+msgstr "Status inválido"
+
+#: \controllers\statuses_controller.php:108
+# RevTran=Invalid ID for the state
+msgid "Invalid id for status"
+msgstr "ID inválida para o Status"
+
+#: \controllers\statuses_controller.php:112
+msgid "Status deleted"
+msgstr "Status excluído"
+
+#: \controllers\statuses_controller.php:115
+# RevTran=Status was not eliminated
+msgid "Status was not deleted"
+msgstr "Status não foi eliminado"
+
+#: \controllers\storages_controller.php:13;37
+msgid "Invalid storage"
+msgstr "Armazenamento inválido"
+
+#: \controllers\storages_controller.php:23;42
+# RevTran=The store was saved
+msgid "The storage has been saved"
+msgstr "O armazenamento foi salvo"
+
+#: \controllers\storages_controller.php:26;45
+# RevTran=The storage could not be saved. Please try again.
+msgid "The storage could not be saved. Please, try again."
+msgstr "O armazenamento não pôde ser salvo. Por favor, tente novamente."
+
+#: \controllers\storages_controller.php:59
+# RevTran=Invalid Id for storage
+msgid "Invalid id for storage"
+msgstr "Id inválido para o armazenamento"
+
+#: \controllers\storages_controller.php:63
+msgid "Storage deleted"
+msgstr "Armazenamento excluído"
+
+#: \controllers\storages_controller.php:66
+msgid "Storage was not deleted"
+msgstr "Armazenamento não foi excluída"
+
+#: \controllers\subjects_controller.php:15;30
+# RevTran=The matter was saved
+msgid "The subject has been saved"
+msgstr "O assunto foi salvo"
+
+#: \controllers\subjects_controller.php:18;33
+# RevTran=The matter could not be saved. Please try again.
+msgid "The subject could not be saved. Please, try again."
+msgstr "O assunto não poderia ser salvo. Por favor, tente novamente."
+
+#: \controllers\subjects_controller.php:25
+msgid "Invalid subject"
+msgstr "Inválido assunto"
+
+#: \controllers\subjects_controller.php:43
+# RevTran=Invalid Id for the subject
+msgid "Invalid id for subject"
+msgstr "Id inválido para o sujeito"
+
+#: \controllers\subjects_controller.php:47
+# RevTran=Subject excluded
+msgid "Subject deleted"
+msgstr "Assunto excluído"
+
+#: \controllers\subjects_controller.php:50
+msgid "Subject was not deleted"
+msgstr "Assunto não foi excluída"
+
+#: \views\blocks\add.ctp:4
+msgid "Add Block"
+msgstr "Adicionar Bloco"
+
+#: \views\blocks\add.ctp:21
+#: \views\blocks\edit.ctp:22
+#: \views\clipps\add.ctp:19
+#: \views\clipps\admin_add.ctp:45
+#: \views\clipps\admin_edit.ctp:45
+#: \views\clipps\edit.ctp:20
+#: \views\customers\add.ctp:8
+#: \views\customers\admin_add.ctp:8
+#: \views\customers\admin_edit.ctp:9
+#: \views\customers\edit.ctp:9
+#: \views\evaluations\admin_add.ctp:15
+#: \views\evaluations\admin_edit.ctp:15
+#: \views\publisher_types\admin_add.ctp:15
+#: \views\publisher_types\admin_edit.ctp:15
+#: \views\publishers\admin_add.ctp:19
+#: \views\publishers\admin_edit.ctp:19
+#: \views\sections\admin_add.ctp:16
+#: \views\sections\admin_edit.ctp:16
+#: \views\statuses\admin_add.ctp:17
+#: \views\statuses\admin_edit.ctp:17
+#: \views\storages\add.ctp:17
+#: \views\storages\edit.ctp:18
+#: \views\subjects\admin_add.ctp:15
+#: \views\subjects\admin_edit.ctp:15
+msgid "Submit"
+msgstr "Enviar"
+
+#: \views\blocks\add.ctp:24
+#: \views\blocks\edit.ctp:25
+#: \views\blocks\index.ctp:21;73
+#: \views\blocks\view.ctp:87
+#: \views\clipps\add.ctp:22
+#: \views\clipps\admin_index.ctp:35
+#: \views\clipps\admin_view.ctp:87
+#: \views\clipps\edit.ctp:23
+#: \views\clipps\view.ctp:87
+#: \views\customers\add.ctp:11
+#: \views\customers\admin_add.ctp:11
+#: \views\customers\admin_edit.ctp:12
+#: \views\customers\admin_index.ctp:6;41
+#: \views\customers\admin_view.ctp:12;43
+#: \views\customers\edit.ctp:12
+#: \views\customers\index.ctp:6;41
+#: \views\customers\view.ctp:12;43
+#: \views\evaluations\admin_index.ctp:12
+#: \views\publisher_types\admin_index.ctp:12
+#: \views\publishers\admin_index.ctp:19
+#: \views\publishers\admin_view.ctp:47;82;137
+#: \views\sections\admin_index.ctp:16
+#: \views\statuses\admin_index.ctp:13
+#: \views\storages\add.ctp:20
+#: \views\storages\edit.ctp:21
+#: \views\storages\index.ctp:17;69
+#: \views\storages\view.ctp:67
+#: \views\subjects\admin_index.ctp:12
+msgid "Actions"
+msgstr "Ações"
+
+#: \views\blocks\add.ctp:27
+#: \views\blocks\edit.ctp:29
+#: \views\blocks\view.ctp:91
+# RevTran=Block list
+msgid "List Blocks"
+msgstr "Blocos lista"
+
+#: \views\blocks\add.ctp:28
+#: \views\blocks\edit.ctp:30
+#: \views\blocks\index.ctp:76
+#: \views\blocks\view.ctp:93
+# RevTran=Regions List
+msgid "List Regions"
+msgstr "Regiões lista"
+
+#: \views\blocks\add.ctp:29
+#: \views\blocks\edit.ctp:31
+#: \views\blocks\index.ctp:77
+#: \views\blocks\view.ctp:94
+msgid "New Region"
+msgstr "Nova Região"
+
+#: \views\blocks\edit.ctp:4
+#: \views\blocks\view.ctp:89
+msgid "Edit Block"
+msgstr "Editar bloco"
+
+#: \views\blocks\edit.ctp:28
+#: \views\blocks\index.ctp:53
+#: \views\clipps\admin_index.ctp:66
+#: \views\clipps\edit.ctp:25
+#: \views\customers\admin_edit.ctp:15
+#: \views\customers\admin_index.ctp:21
+#: \views\customers\admin_view.ctp:73
+#: \views\customers\edit.ctp:15
+#: \views\customers\index.ctp:21
+#: \views\customers\view.ctp:73
+#: \views\evaluations\admin_index.ctp:28
+#: \views\publisher_types\admin_index.ctp:27
+#: \views\publishers\admin_index.ctp:41
+#: \views\publishers\admin_view.ctp:112;157
+#: \views\sections\admin_index.ctp:35
+#: \views\statuses\admin_index.ctp:28
+#: \views\storages\edit.ctp:24
+#: \views\storages\index.ctp:49
+#: \views\subjects\admin_index.ctp:27
+msgid "Delete"
+msgstr "Excluir"
+
+#: \views\blocks\edit.ctp:28
+#: \views\blocks\index.ctp:53
+#: \views\blocks\view.ctp:90
+#: \views\clipps\admin_index.ctp:66
+#: \views\clipps\admin_view.ctp:90
+#: \views\clipps\edit.ctp:25
+#: \views\clipps\view.ctp:90
+#: \views\customers\admin_edit.ctp:15
+#: \views\customers\admin_index.ctp:21
+#: \views\customers\admin_view.ctp:15;73
+#: \views\customers\edit.ctp:15
+#: \views\customers\index.ctp:21
+#: \views\customers\view.ctp:15;73
+#: \views\evaluations\admin_index.ctp:28
+#: \views\publisher_types\admin_index.ctp:27
+#: \views\publishers\admin_index.ctp:41
+#: \views\publishers\admin_view.ctp:50;112;157
+#: \views\sections\admin_index.ctp:35
+#: \views\statuses\admin_index.ctp:28
+#: \views\storages\edit.ctp:24
+#: \views\storages\index.ctp:49
+#: \views\storages\view.ctp:70
+#: \views\subjects\admin_index.ctp:27
+# RevTran=Are you sure you want to delete #% s?
+msgid "Are you sure you want to delete # %s?"
+msgstr "Tem certeza de que deseja excluir #% s?"
+
+#: \views\blocks\index.ctp:2
+msgid "Blocks"
+msgstr "Blocos"
+
+#: \views\blocks\index.ctp:51
+#: \views\clipps\admin_index.ctp:64
+#: \views\customers\admin_index.ctp:19
+#: \views\customers\admin_view.ctp:71
+#: \views\customers\index.ctp:19
+#: \views\customers\view.ctp:71
+#: \views\evaluations\admin_index.ctp:26
+#: \views\publishers\admin_view.ctp:110
+#: \views\storages\index.ctp:47
+msgid "View"
+msgstr "Visualizar"
+
+#: \views\blocks\index.ctp:52
+#: \views\clipps\admin_index.ctp:65
+#: \views\customers\admin_index.ctp:20
+#: \views\customers\admin_view.ctp:72
+#: \views\customers\index.ctp:20
+#: \views\customers\view.ctp:72
+#: \views\evaluations\admin_index.ctp:27
+#: \views\publisher_types\admin_index.ctp:26
+#: \views\publishers\admin_index.ctp:40
+#: \views\publishers\admin_view.ctp:111;156
+#: \views\sections\admin_index.ctp:34
+#: \views\statuses\admin_index.ctp:27
+#: \views\storages\index.ctp:48
+#: \views\subjects\admin_index.ctp:26
+msgid "Edit"
+msgstr "Editar"
+
+#: \views\blocks\index.ctp:61
+#: \views\clipps\admin_index.ctp:72
+#: \views\clipps\index.ctp:62
+#: \views\customers\admin_index.ctp:29
+#: \views\customers\index.ctp:29
+#: \views\evaluations\admin_index.ctp:34
+#: \views\publisher_types\admin_index.ctp:33
+#: \views\publishers\admin_index.ctp:47
+#: \views\sections\admin_index.ctp:41
+#: \views\statuses\admin_index.ctp:34
+#: \views\storages\index.ctp:57
+#: \views\subjects\admin_index.ctp:33
+# RevTran=Page% page% of% pages%, showing% current% records of% count% total, starting on record% start%, ending on% end%
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Página %page% de %pages%, mostrando registros %current% de %count% total, começando no %start%, terminando em %end%"
+
+#: \views\blocks\index.ctp:66
+#: \views\clipps\index.ctp:67
+#: \views\customers\admin_index.ctp:34
+#: \views\customers\index.ctp:34
+#: \views\storages\index.ctp:62
+msgid "previous"
+msgstr "anterior"
+
+#: \views\blocks\index.ctp:69
+#: \views\clipps\index.ctp:70
+#: \views\customers\admin_index.ctp:37
+#: \views\customers\index.ctp:37
+#: \views\storages\index.ctp:65
+# RevTran=close
+msgid "next"
+msgstr "próximo"
+
+#: \views\blocks\index.ctp:75
+#: \views\blocks\view.ctp:92
+# RevTran=New block
+msgid "New Block"
+msgstr "Bloco novo"
+
+#: \views\blocks\view.ctp:2
+msgid "Block"
+msgstr "Bloco"
+
+#: \views\blocks\view.ctp:4
+#: \views\clipps\admin_view.ctp:4
+#: \views\clipps\view.ctp:4
+#: \views\customers\admin_view.ctp:4;27
+#: \views\customers\view.ctp:4;27
+#: \views\publishers\admin_view.ctp:4;66;130
+#: \views\storages\view.ctp:4
+# RevTran=ID
+msgid "Id"
+msgstr "ID"
+
+#: \views\blocks\view.ctp:9
+msgid "Region"
+msgstr "Região"
+
+#: \views\blocks\view.ctp:14
+#: \views\clipps\admin_view.ctp:9
+#: \views\clipps\view.ctp:9
+#: \views\customers\admin_view.ctp:28
+#: \views\customers\view.ctp:28
+#: \views\publishers\admin_view.ctp:67
+msgid "Title"
+msgstr "Título"
+
+#: \views\blocks\view.ctp:19
+# RevTran=Pseudonym
+msgid "Alias"
+msgstr "Pseudônimo"
+
+#: \views\blocks\view.ctp:24
+msgid "Body"
+msgstr "Corpo"
+
+#: \views\blocks\view.ctp:29
+# RevTran=Show title
+msgid "Show Title"
+msgstr "Mostrar título"
+
+#: \views\blocks\view.ctp:34
+msgid "Class"
+msgstr "Classe"
+
+#: \views\blocks\view.ctp:39
+#: \views\clipps\admin_view.ctp:34
+#: \views\clipps\index.ctp:46
+#: \views\clipps\view.ctp:34
+#: \views\elements\admin_menu.ctp:5
+# RevTran=State
+msgid "Status"
+msgstr "Status"
+
+#: \views\blocks\view.ctp:44
+msgid "Weight"
+msgstr "Peso"
+
+#: \views\blocks\view.ctp:49
+msgid "Element"
+msgstr "Elemento"
+
+#: \views\blocks\view.ctp:54
+# RevTran=Visibility functions
+msgid "Visibility Roles"
+msgstr "Funções visibilidade"
+
+#: \views\blocks\view.ctp:59
+# RevTran=Paths of visibility
+msgid "Visibility Paths"
+msgstr "Caminhos de visibilidade"
+
+#: \views\blocks\view.ctp:64
+msgid "Visibility Php"
+msgstr "Visibilidade Php"
+
+#: \views\blocks\view.ctp:69
+msgid "Params"
+msgstr "Params"
+
+#: \views\blocks\view.ctp:74
+msgid "Updated"
+msgstr "Atualizado"
+
+#: \views\blocks\view.ctp:79
+#: \views\clipps\admin_view.ctp:39
+#: \views\clipps\view.ctp:39
+#: \views\customers\admin_view.ctp:34
+#: \views\customers\view.ctp:34
+#: \views\publishers\admin_view.ctp:34;73;135
+#: \views\storages\view.ctp:39
+msgid "Created"
+msgstr "Criado"
+
+#: \views\blocks\view.ctp:90
+msgid "Delete Block"
+msgstr "Excluir Bloco"
+
+#: \views\clipps\add.ctp:4
+#: \views\clipps\admin_add.ctp:2
+msgid "Add Clipp"
+msgstr "Adicionar Clipp"
+
+#: \views\clipps\add.ctp:10;11;12;13;14;15;16
+#: \views\clipps\edit.ctp:11;12;13;14;15;16;17
+msgid "Select"
+msgstr "Selecionar"
+
+#: \views\clipps\add.ctp:24
+#: \views\clipps\admin_add.ctp:5
+#: \views\clipps\admin_edit.ctp:5
+#: \views\clipps\admin_view.ctp:91
+#: \views\clipps\edit.ctp:26
+#: \views\clipps\view.ctp:91
+#: \views\customers\add.ctp:15
+#: \views\customers\admin_add.ctp:15
+#: \views\customers\admin_edit.ctp:17
+#: \views\customers\admin_index.ctp:44
+#: \views\customers\admin_view.ctp:18
+#: \views\customers\edit.ctp:17
+#: \views\customers\index.ctp:44
+#: \views\customers\view.ctp:18
+#: \views\publishers\admin_view.ctp:55
+#: \views\statuses\admin_add.ctp:6
+#: \views\statuses\admin_edit.ctp:6
+#: \views\statuses\admin_index.ctp:6
+#: \views\storages\add.ctp:23
+#: \views\storages\edit.ctp:26
+#: \views\storages\index.ctp:72
+#: \views\storages\view.ctp:73
+# RevTran=Clipps list
+msgid "List Clipps"
+msgstr "Listar Clipps"
+
+#: \views\clipps\add.ctp:25
+#: \views\clipps\admin_view.ctp:93
+#: \views\clipps\edit.ctp:27
+#: \views\clipps\view.ctp:93
+#: \views\evaluations\admin_add.ctp:5
+#: \views\evaluations\admin_edit.ctp:5
+# RevTran=Assessments list
+msgid "List Evaluations"
+msgstr "Listar avaliações"
+
+#: \views\clipps\add.ctp:26
+#: \views\clipps\admin_view.ctp:94
+#: \views\clipps\edit.ctp:28
+#: \views\clipps\view.ctp:94
+#: \views\evaluations\admin_index.ctp:5
+# RevTran=New rating
+msgid "New Evaluation"
+msgstr "Nova Avaliação"
+
+#: \views\clipps\add.ctp:27
+#: \views\clipps\admin_view.ctp:95
+#: \views\clipps\edit.ctp:29
+#: \views\clipps\view.ctp:95
+#: \views\statuses\admin_add.ctp:5
+#: \views\statuses\admin_edit.ctp:5
+# RevTran=Status list
+msgid "List Statuses"
+msgstr "Listar Status"
+
+#: \views\clipps\add.ctp:28
+#: \views\clipps\admin_view.ctp:96
+#: \views\clipps\edit.ctp:30
+#: \views\clipps\view.ctp:96
+#: \views\statuses\admin_index.ctp:5
+# RevTran=New State
+msgid "New Status"
+msgstr "Novo Status"
+
+#: \views\clipps\add.ctp:29
+#: \views\clipps\admin_view.ctp:97
+#: \views\clipps\edit.ctp:31
+#: \views\clipps\view.ctp:97
+#: \views\customers\add.ctp:14
+#: \views\customers\admin_add.ctp:14
+#: \views\customers\admin_edit.ctp:16
+#: \views\customers\admin_view.ctp:16
+#: \views\customers\edit.ctp:16
+#: \views\customers\view.ctp:16
+# RevTran=Guest list
+msgid "List Customers"
+msgstr "Clientes lista"
+
+#: \views\clipps\add.ctp:30
+#: \views\clipps\admin_view.ctp:98
+#: \views\clipps\edit.ctp:32
+#: \views\clipps\view.ctp:98
+#: \views\customers\admin_index.ctp:43
+#: \views\customers\admin_view.ctp:17
+#: \views\customers\index.ctp:43
+#: \views\customers\view.ctp:17
+msgid "New Customer"
+msgstr "Novo Cliente"
+
+#: \views\clipps\add.ctp:31
+#: \views\clipps\admin_view.ctp:99
+#: \views\clipps\edit.ctp:33
+#: \views\clipps\view.ctp:99
+#: \views\publisher_types\admin_add.ctp:5
+#: \views\publisher_types\admin_edit.ctp:5
+#: \views\publishers\admin_add.ctp:6
+#: \views\publishers\admin_edit.ctp:6
+#: \views\publishers\admin_index.ctp:6
+#: \views\publishers\admin_view.ctp:53
+# RevTran=Publisher List types
+msgid "List Publisher Types"
+msgstr "Listar tipos de veículos"
+
+#: \views\clipps\add.ctp:32
+#: \views\clipps\admin_view.ctp:100
+#: \views\clipps\edit.ctp:34
+#: \views\clipps\view.ctp:100
+#: \views\publisher_types\admin_index.ctp:5
+#: \views\publishers\admin_view.ctp:54
+# RevTran=Type New Publisher
+msgid "New Publisher Type"
+msgstr "Novo tipo de Veículo"
+
+#: \views\clipps\add.ctp:33
+#: \views\clipps\admin_view.ctp:101
+#: \views\clipps\edit.ctp:35
+#: \views\clipps\view.ctp:101
+#: \views\publishers\admin_add.ctp:5
+#: \views\publishers\admin_edit.ctp:5
+#: \views\publishers\admin_view.ctp:51
+# RevTran=Publishers list
+msgid "List Publishers"
+msgstr "Listar Veículos"
+
+#: \views\clipps\add.ctp:34
+#: \views\clipps\admin_view.ctp:102
+#: \views\clipps\edit.ctp:36
+#: \views\clipps\view.ctp:102
+#: \views\publishers\admin_index.ctp:5
+#: \views\publishers\admin_view.ctp:52
+msgid "New Publisher"
+msgstr "Novo Veículo"
+
+#: \views\clipps\add.ctp:35
+#: \views\clipps\admin_view.ctp:103
+#: \views\clipps\edit.ctp:37
+#: \views\clipps\view.ctp:103
+#: \views\publishers\admin_add.ctp:7
+#: \views\publishers\admin_edit.ctp:7
+#: \views\publishers\admin_index.ctp:7
+#: \views\publishers\admin_view.ctp:57
+#: \views\sections\admin_add.ctp:5
+#: \views\sections\admin_edit.ctp:5
+# RevTran=Sections list
+msgid "List Sections"
+msgstr "Listar Editorias"
+
+#: \views\clipps\add.ctp:36
+#: \views\clipps\admin_view.ctp:104
+#: \views\clipps\edit.ctp:38
+#: \views\clipps\view.ctp:104
+#: \views\publishers\admin_view.ctp:58;166
+#: \views\sections\admin_index.ctp:5
+# RevTran=New section
+msgid "New Section"
+msgstr "Nova Editoria"
+
+#: \views\clipps\add.ctp:37
+#: \views\clipps\admin_view.ctp:105
+#: \views\clipps\edit.ctp:39
+#: \views\clipps\view.ctp:105
+#: \views\subjects\admin_add.ctp:5
+#: \views\subjects\admin_edit.ctp:5
+# RevTran=Subject list
+msgid "List Subjects"
+msgstr "Listar Assuntos"
+
+#: \views\clipps\add.ctp:38
+#: \views\clipps\admin_view.ctp:106
+#: \views\clipps\edit.ctp:40
+#: \views\clipps\view.ctp:106
+#: \views\subjects\admin_index.ctp:5
+# RevTran=New subject
+msgid "New Subject"
+msgstr "Novo Assunto"
+
+#: \views\clipps\admin_add.ctp:13
+#: \views\clipps\admin_edit.ctp:13
+#: \views\clipps\admin_view.ctp:2
+#: \views\clipps\view.ctp:2
+#: \views\storages\view.ctp:59
+msgid "Clipp"
+msgstr "Clipp"
+
+#: \views\clipps\admin_add.ctp:14
+#: \views\clipps\admin_edit.ctp:14
+#: \views\clipps\admin_view.ctp:24
+#: \views\clipps\view.ctp:24
+#: \views\customers\admin_view.ctp:31
+#: \views\customers\view.ctp:31
+#: \views\publishers\admin_view.ctp:70
+msgid "Content"
+msgstr "Conteúdo"
+
+#: \views\clipps\admin_add.ctp:15
+#: \views\clipps\admin_edit.ctp:15
+#: \views\clipps\admin_view.ctp:69
+#: \views\clipps\index.ctp:49
+#: \views\clipps\view.ctp:69
+#: \views\publishers\admin_view.ctp:2
+# RevTran=Editor
+msgid "Publisher"
+msgstr "Veículo"
+
+#: \views\clipps\admin_add.ctp:16
+#: \views\clipps\admin_edit.ctp:16
+# RevTran=Archives
+msgid "Files"
+msgstr "Arquivos"
+
+#: \views\clipps\admin_edit.ctp:2
+#: \views\clipps\admin_view.ctp:89
+#: \views\clipps\edit.ctp:4
+#: \views\clipps\view.ctp:89
+msgid "Edit Clipp"
+msgstr "Editar Clipp"
+
+#: \views\clipps\admin_index.ctp:2
+#: \views\clipps\index.ctp:2
+#: \views\elements\admin_menu.ctp:3
+msgid "Clipps"
+msgstr "Clipps"
+
+#: \views\clipps\admin_index.ctp:5
+#: \views\clipps\admin_view.ctp:92
+#: \views\clipps\view.ctp:92
+#: \views\customers\add.ctp:16
+#: \views\customers\admin_add.ctp:16
+#: \views\customers\admin_edit.ctp:18
+#: \views\customers\admin_index.ctp:45
+#: \views\customers\admin_view.ctp:19;82
+#: \views\customers\edit.ctp:18
+#: \views\customers\index.ctp:45
+#: \views\customers\view.ctp:19;82
+#: \views\publishers\admin_view.ctp:56;121
+#: \views\storages\add.ctp:24
+#: \views\storages\edit.ctp:27
+#: \views\storages\index.ctp:73
+#: \views\storages\view.ctp:74
+msgid "New Clipp"
+msgstr "Novo Clipp"
+
+#: \views\clipps\admin_view.ctp:14
+#: \views\clipps\view.ctp:14
+#: \views\customers\admin_view.ctp:29
+#: \views\customers\view.ctp:29
+#: \views\publishers\admin_view.ctp:68
+# RevTran=Date Published
+msgid "Publish Date"
+msgstr "Data de Publicação"
+
+#: \views\clipps\admin_view.ctp:19
+#: \views\clipps\view.ctp:19
+#: \views\customers\admin_view.ctp:30
+#: \views\customers\view.ctp:30
+#: \views\publishers\admin_view.ctp:69
+msgid "Resume"
+msgstr "Resumo"
+
+#: \views\clipps\admin_view.ctp:29
+#: \views\clipps\view.ctp:29
+msgid "Evaluation"
+msgstr "Avaliação"
+
+#: \views\clipps\admin_view.ctp:44
+#: \views\clipps\view.ctp:44
+#: \views\customers\admin_view.ctp:35
+#: \views\customers\view.ctp:35
+#: \views\publishers\admin_view.ctp:39;74;136
+#: \views\storages\view.ctp:44
+msgid "Modified"
+msgstr "Modificado"
+
+#: \views\clipps\admin_view.ctp:49
+#: \views\clipps\view.ctp:49
+#: \views\customers\admin_view.ctp:36
+#: \views\customers\view.ctp:36
+#: \views\publishers\admin_view.ctp:24;75;133
+#: \views\storages\view.ctp:49
+msgid "Created By"
+msgstr "Criado por"
+
+#: \views\clipps\admin_view.ctp:54
+#: \views\clipps\view.ctp:54
+#: \views\customers\admin_view.ctp:37
+#: \views\customers\view.ctp:37
+#: \views\publishers\admin_view.ctp:29;76;134
+#: \views\storages\view.ctp:54
+# RevTran=Modified
+msgid "Modified By"
+msgstr "Modificado por"
+
+#: \views\clipps\admin_view.ctp:59
+#: \views\clipps\index.ctp:48
+#: \views\clipps\view.ctp:59
+#: \views\customers\admin_view.ctp:2
+#: \views\customers\view.ctp:2
+msgid "Customer"
+msgstr "Cliente"
+
+#: \views\clipps\admin_view.ctp:64
+#: \views\clipps\index.ctp:47
+#: \views\clipps\view.ctp:64
+#: \views\publishers\admin_view.ctp:19
+msgid "Publisher Type"
+msgstr "Tipo de Veículo"
+
+#: \views\clipps\admin_view.ctp:74
+#: \views\clipps\index.ctp:50
+#: \views\clipps\view.ctp:74
+msgid "Section"
+msgstr "Editoria"
+
+#: \views\clipps\admin_view.ctp:79
+#: \views\clipps\index.ctp:51
+#: \views\clipps\view.ctp:79
+msgid "Subject"
+msgstr "Assunto"
+
+#: \views\clipps\admin_view.ctp:90
+#: \views\clipps\view.ctp:90
+msgid "Delete Clipp"
+msgstr "Excluir Clipp"
+
+#: \views\clipps\admin_view.ctp:107
+#: \views\storages\add.ctp:25
+#: \views\storages\edit.ctp:28
+#: \views\storages\index.ctp:74
+#: \views\storages\view.ctp:75
+# RevTran=Users list
+msgid "List Users"
+msgstr "Usuários lista"
+
+#: \views\clipps\admin_view.ctp:108
+#: \views\storages\add.ctp:26
+#: \views\storages\edit.ctp:29
+#: \views\storages\index.ctp:75
+#: \views\storages\view.ctp:76
+# RevTran=Created by new
+msgid "New Created By"
+msgstr "Criado por novas"
+
+#: \views\clipps\index.ctp:45
+msgid "Avaluation"
+msgstr "Avaluation"
+
+#: \views\customers\add.ctp:4
+msgid "Add Customer"
+msgstr "Adicionar ao Cliente"
+
+#: \views\customers\admin_add.ctp:4
+# RevTran=Add Customer Administrator
+msgid "Admin Add Customer"
+msgstr "Adicionar ao Cliente administrador"
+
+#: \views\customers\admin_edit.ctp:4
+# RevTran=Edit administration client
+msgid "Admin Edit Customer"
+msgstr "Editar cliente de administração"
+
+#: \views\customers\admin_index.ctp:2
+#: \views\customers\index.ctp:2
+#: \views\elements\admin_menu.ctp:4
+msgid "Customers"
+msgstr "Clientes"
+
+#: \views\customers\admin_view.ctp:14
+#: \views\customers\edit.ctp:4
+#: \views\customers\view.ctp:14
+msgid "Edit Customer"
+msgstr "Editar cliente"
+
+#: \views\customers\admin_view.ctp:15
+#: \views\customers\view.ctp:15
+# RevTran=Delete Client
+msgid "Delete Customer"
+msgstr "Excluir Cliente"
+
+#: \views\customers\admin_view.ctp:23
+#: \views\customers\view.ctp:23
+#: \views\publishers\admin_view.ctp:62
+msgid "Related Clipps"
+msgstr "Clipps relacionados"
+
+#: \views\customers\admin_view.ctp:32
+#: \views\customers\view.ctp:32
+#: \views\publishers\admin_view.ctp:71
+# RevTran=Rating Id
+msgid "Evaluation Id"
+msgstr "Avaliação Id"
+
+#: \views\customers\admin_view.ctp:33
+#: \views\customers\view.ctp:33
+#: \views\publishers\admin_view.ctp:72
+# RevTran=State Id
+msgid "Status Id"
+msgstr "Id Status"
+
+#: \views\customers\admin_view.ctp:38
+#: \views\customers\view.ctp:38
+#: \views\publishers\admin_view.ctp:77
+# RevTran=CustomerId
+msgid "Customer Id"
+msgstr "Id do cliente"
+
+#: \views\customers\admin_view.ctp:39
+#: \views\customers\view.ctp:39
+#: \views\publishers\admin_view.ctp:78
+# RevTran=Publisher Id Type
+msgid "Publisher Type Id"
+msgstr "Id de Tipo de Veículo"
+
+#: \views\customers\admin_view.ctp:40
+#: \views\customers\view.ctp:40
+#: \views\publishers\admin_view.ctp:79
+# RevTran=Publisher ID
+msgid "Publisher Id"
+msgstr "Id de Veículo"
+
+#: \views\customers\admin_view.ctp:41
+#: \views\customers\view.ctp:41
+#: \views\publishers\admin_view.ctp:80
+msgid "Section Id"
+msgstr "Id Editoria"
+
+#: \views\customers\admin_view.ctp:42
+#: \views\customers\view.ctp:42
+#: \views\publishers\admin_view.ctp:81
+# RevTran=Id issue
+msgid "Subject Id"
+msgstr "Id assunto"
+
+#: \views\elements\admin_menu.ctp:1
+msgid "Clipping"
+msgstr "Clipping"
+
+#: \views\elements\admin_menu.ctp:6
+#: \views\evaluations\admin_index.ctp:2
+# RevTran=Reviews
+msgid "Evaluations"
+msgstr "Avaliações"
+
+#: \views\elements\admin_menu.ctp:7
+#: \views\publishers\admin_index.ctp:2
+# RevTran=Editors
+msgid "Publishers"
+msgstr "Veículos"
+
+#: \views\elements\admin_menu.ctp:8
+#: \views\sections\admin_index.ctp:2
+msgid "Sections"
+msgstr "Editorias"
+
+#: \views\elements\admin_menu.ctp:9
+#: \views\subjects\admin_index.ctp:2
+# RevTran=Affairs
+msgid "Subjects"
+msgstr "Assuntos"
+
+#: \views\evaluations\admin_add.ctp:2
+# RevTran=Add Rating
+msgid "Add Evaluation"
+msgstr "Adicionar Avaliação"
+
+#: \views\evaluations\admin_edit.ctp:2
+# RevTran=Rating edit
+msgid "Edit Evaluation"
+msgstr "Editar Avaliação"
+
+#: \views\publisher_types\admin_add.ctp:2
+# RevTran=Add type Publisher
+msgid "Add Publisher Type"
+msgstr "Adicionar Tipo de editor"
+
+#: \views\publisher_types\admin_edit.ctp:2
+# RevTran=Edit Type Publisher
+msgid "Edit Publisher Type"
+msgstr "Editar Tipo de Editor"
+
+#: \views\publisher_types\admin_index.ctp:2
+# RevTran=Types Publisher
+msgid "Publisher Types"
+msgstr "Tipos de Editor"
+
+#: \views\publishers\admin_add.ctp:2
+msgid "Add Publisher"
+msgstr "Adicionar Editor"
+
+#: \views\publishers\admin_edit.ctp:2
+#: \views\publishers\admin_view.ctp:49
+msgid "Edit Publisher"
+msgstr "Editar Editor"
+
+#: \views\publishers\admin_view.ctp:9;131
+#: \views\storages\view.ctp:9
+msgid "Name"
+msgstr "Nome"
+
+#: \views\publishers\admin_view.ctp:14;132
+#: \views\storages\view.ctp:14
+msgid "Description"
+msgstr "Descrição"
+
+#: \views\publishers\admin_view.ctp:50
+msgid "Delete Publisher"
+msgstr "Excluir Editor"
+
+#: \views\publishers\admin_view.ctp:126
+msgid "Related Sections"
+msgstr "Editorias relacionadas"
+
+#: \views\sections\admin_add.ctp:2
+#: \views\sections\admin_edit.ctp:2
+# RevTran=Add section
+msgid "Add Section"
+msgstr "Adicionar editoria"
+
+#: \views\statuses\admin_add.ctp:2
+# RevTran=Add State
+msgid "Add Status"
+msgstr "Adicione Status"
+
+#: \views\statuses\admin_edit.ctp:2
+# RevTran=Edit State
+msgid "Edit Status"
+msgstr "Editar Status"
+
+#: \views\statuses\admin_index.ctp:2
+# RevTran=Status
+msgid "Statuses"
+msgstr "Status"
+
+#: \views\storages\add.ctp:4
+msgid "Add Storage"
+msgstr "Adicionar Arquivo"
+
+#: \views\storages\add.ctp:22
+#: \views\storages\edit.ctp:25
+#: \views\storages\view.ctp:71
+# RevTran=Storages list
+msgid "List Storages"
+msgstr "Listar Arquivos"
+
+#: \views\storages\edit.ctp:4
+#: \views\storages\view.ctp:69
+# RevTran=Edit Store
+msgid "Edit Storage"
+msgstr "Editar Arquivo"
+
+#: \views\storages\index.ctp:2
+# RevTran=Stores
+msgid "Storages"
+msgstr "Arquivos"
+
+#: \views\storages\index.ctp:71
+#: \views\storages\view.ctp:72
+# RevTran=New storage
+msgid "New Storage"
+msgstr "Adicionar arquivo"
+
+#: \views\storages\view.ctp:2
+msgid "Storage"
+msgstr "Arquivo"
+
+#: \views\storages\view.ctp:19
+msgid "File"
+msgstr "Arquivo"
+
+#: \views\storages\view.ctp:24
+msgid "Dir"
+msgstr "Dir"
+
+#: \views\storages\view.ctp:29
+msgid "Mimetype"
+msgstr "Mimetype"
+
+#: \views\storages\view.ctp:34
+# RevTran=Size
+msgid "Filesize"
+msgstr "Tamanho"
+
+#: \views\storages\view.ctp:70
+# RevTran=Delete store
+msgid "Delete Storage"
+msgstr "Excluir Arquivo"
+
+#: \views\subjects\admin_add.ctp:2
+msgid "Add Subject"
+msgstr "Adicionar Assunto"
+
+#: \views\subjects\admin_edit.ctp:2
+msgid "Edit Subject"
+msgstr "Editar Assunto"
+
+msgid "Observation"
+msgstr "Páginas"
+
+msgid "Social Name"
+msgstr "Razão Social"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Add ClippLink"
+msgstr "Adicionar Link"
+
+msgid "Mail send sucessfull"
+msgstr "E-mail enviado com sucesso"
+
+msgid "Mail not send"
+msgstr "Ocorreu uma falha ao enviar o e-mail"
+
+msgid  "January"
+msgstr "Janeiro"
+
+msgid  "February"
+msgstr "Fevereiro"
+
+msgid  "March"
+msgstr "Março"
+
+msgid  "April"
+msgstr "Abril"
+
+msgid  "May"
+msgstr "Maio"
+
+msgid  "June"
+msgstr "Junho"
+
+msgid  "July"
+msgstr "Julho"
+
+msgid  "August"
+msgstr "Agosto"
+
+msgid  "September"
+msgstr "Setembro"
+
+msgid  "October"
+msgstr "Outubro"
+
+msgid  "November"
+msgstr "Novembro"
+
+msgid  "December"
+msgstr "Dezembro"
+
+msgid  "Start Date"
+msgstr "de"
+
+msgid  "End Date"
+msgstr "até"
+
+msgid  "Send Email"
+msgstr "Enviar Email"
