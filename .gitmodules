@@ -1,0 +1,3 @@
+[submodule "clipping"]
+	path = clipping
+	url = ./app/plugins/clipping
