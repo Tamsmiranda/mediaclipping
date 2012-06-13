@@ -169,5 +169,6 @@ app/webroot/files/*
 app/config/database.php
 app/tmp/*
 app/tmp/cache/*
+app/webroot/cache/*
 app/plugins/checking/*
 app/plugins/clipping/*
